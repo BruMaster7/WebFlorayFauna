@@ -1,0 +1,17 @@
+{
+    "name": "Pulpo",
+    "cientific_name": "Octopus vulgaris",
+    "description": "El pulpo es un molusco cefalópodo que vive asociado al fondo marino. La cabeza presenta una corona de 8 brazos provistos de ventosas. Con las ventosas se adhiere al sustrato y captura a sus presas, que luego son paralizadas con veneno y trituradas con su mandíbula en forma de pico. Llega a medir 1 m de longitud. Se alimenta de peces, crustáceos y moluscos.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/moluscos/006-pulpo-main.png",
+    "category": "animalia",
+    "orden": "Octopoda",
+    "familia": "Octopodidae",
+    "género": "Octopus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/moluscos/006-pulpo-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/moluscos/006-pulpo-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "006 - Moluscos",
+    "reino-2": "Reino animal"
+}

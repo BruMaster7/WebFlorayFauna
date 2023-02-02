@@ -1,0 +1,20 @@
+{
+    "name": "Trepador grande",
+    "cientific_name": "Drymornis bridgesii",
+    "description": "El trepador grande es un ave de plumaje rojizo con líneas blancas en el vientre. Su pico es largo, de color marrón a negro y curvado hacia abajo. Cuando es adulto mide 26 cm de largo y puede pesar más de 100 g. La hembra es de mayor tamaño que el macho. Esta especie se alimenta de pequeños invertebrados y habita en áreas rurales, montes de parque y palmares.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/008-trepador-grande-main.png",
+    "category": "animalia",
+    "orden": "Passeriformes",
+    "familia": "Dendrocolaptidae",
+    "género": "Drymornis",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/008-trepador-grande-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/008-trepador-grande-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/comun.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "008 - Aves",
+    "reino-2": "Reino animal"
+}

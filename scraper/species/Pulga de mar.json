@@ -1,0 +1,17 @@
+{
+    "name": "Pulga de mar",
+    "cientific_name": "Atlantorchestoidea brasiliensis",
+    "description": "Es un crustáceo terrestre de tamaño pequeño, que se encuentra comúnmente en la orilla del mar. Tiene una cabeza con ojos compuestos, 2 antenas desarrolladas y 2 pequeñas anténulas. En el tórax tiene 7 pares de patas (pereiópodos) y en el abdomen tiene 6 pares de patas. Mide unos 2 cm de longitud.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/crustaceos/002-pulga-de-mar-main.png",
+    "category": "animalia",
+    "orden": "Amphipoda",
+    "familia": "Talitridae",
+    "género": "Atlantorchestoidea",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/crustaceos/002-pulga-de-mar-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/crustaceos/002-pulga-de-mar-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "002 - Crustáceos",
+    "reino-2": "Reino animal"
+}

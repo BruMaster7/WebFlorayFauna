@@ -1,0 +1,15 @@
+{
+    "name": "Ameba",
+    "cientific_name": "Amoeba sp. ",
+    "description": "La ameba es un organismo unicelular. No presenta pared celular, lo que le permite cambiar de forma y desplazarse mediante prolongaciones llamadas pseudópodos o pie falso (movimiento ameboide). Puede ser muy pequeña (y observarse solo con microscopio) o llegar a medir más de 1 mm y observarse a simple vista. Esta especie vive libre en el agua y en la tierra.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-protista/001-ameba-main.png",
+    "category": "protista",
+    "orden": "Tubulinida",
+    "familia": "Amoebidae",
+    "género": "Amoeba",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-protista/001-ameba-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-protista/001-ameba-location.png",
+    "images": [],
+    "reino": "001 - Reino protista",
+    "reino-2": ""
+}

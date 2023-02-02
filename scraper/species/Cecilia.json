@@ -1,0 +1,18 @@
+{
+    "name": "Cecilia",
+    "cientific_name": "Chthonerpeton indistinctum",
+    "description": "La cecilia es la única especie de anfibio ápodo de Uruguay. Su cuerpo es liso y de forma cilíndrica, similar al de una serpiente. Tiene una coloración gris azulada, oscura y brillante. Su tamaño varía entre 10 y 50 cm. Su alimentación se basa en invertebrados. Habita en lugares barrosos de zonas húmedas.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/002-cecilia-main.png",
+    "category": "animalia",
+    "orden": "Gymnophiona",
+    "familia": "Typhlonectidae",
+    "género": "Chthonerpeton ",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/002-cecilia-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/002-cecilia-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "002 - Anfibios",
+    "reino-2": "Reino animal"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Anacahuita",
+    "cientific_name": "Schinus molle",
+    "description": "La anacahuita es un árbol de follaje persistente que puede alcanzar hasta 7 m de altura. La corteza (de textura rugosa y con surcos) se desprende en placas y es de color castaño grisáceo. Sus hojas compuestas y largas pueden medir hasta 25 cm de largo. Están divididas en hasta 12 o 13 pares de laminillas denominadas folíolos, que se insertan en el eje central (llamado raquis).",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/026-anacahuita-main.png",
+    "category": "plantae",
+    "orden": "Sapindales",
+    "familia": "Sapindaceae",
+    "género": "Schinus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/026-anacahuita-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/026-anacahuita-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "026 - Reino vegetal",
+    "reino-2": ""
+}

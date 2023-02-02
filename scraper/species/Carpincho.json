@@ -1,0 +1,19 @@
+{
+    "name": "Carpincho",
+    "cientific_name": "Hydrochoerus hydrochaeris",
+    "description": "El carpincho es el roedor más grande que vive en la actualidad. No tiene rabo, su pelaje es marrón y sus patas presentan membranas entre los dedos. Puede llegar a medir 1,30 m de largo y a pesar 90 kg. Se alimenta de vegetales. Habita en arroyos, bañados y ambientes acuáticos asociados a montes, donde es muy frecuente encontrar sus huellas y excrementos.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/012-carpincho-main.png",
+    "category": "animalia",
+    "orden": "Rodentia",
+    "familia": "Hydrochoeridae",
+    "género": "Hydrochoerus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/012-carpincho-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/012-carpincho-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/en-peligro-de-extincion.jpg"
+    ],
+    "reino": "012 - Mamíferos",
+    "reino-2": "Reino animal"
+}

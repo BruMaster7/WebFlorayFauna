@@ -1,0 +1,17 @@
+{
+    "name": "Escudo de mar",
+    "cientific_name": "Mellita quinquiesperforata",
+    "description": "El escudo de mar o dólar de arena recibe este nombre debido a la forma aplanada y casi circular de su cuerpo. Es de color oscuro, entre marrón, verde y gris. Puede llegar a medir hasta 6 cm de diámetro. Se alimenta de plantas y de animales microscópicos. Es exclusivamente marino; habita en fondos arenosos y rocosos del océano Atlántico.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/equinodermos/003-escudo-de-mar-main.png",
+    "category": "animalia",
+    "orden": "Clypeasteroida",
+    "familia": "Mellitidae",
+    "género": "Mellita",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/equinodermos/003-escudo-de-mar-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/equinodermos/003-escudo-de-mar-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "003 - Equinodermos",
+    "reino-2": "Reino animal"
+}

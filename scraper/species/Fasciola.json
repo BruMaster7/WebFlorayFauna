@@ -1,0 +1,17 @@
+{
+    "name": "Fasciola",
+    "cientific_name": "Fasciola hepática",
+    "description": "La Fasciola hepática es un platelminto trematodo de cuerpo plano, provisto de 2 ventosas (una bucal y otra ventral). Mide entre 2 y 3,5 cm de largo. Es la especie causante de una enfermedad parasitaria llamada fasciolasis, que afecta a gran cantidad de animales herbívoros y omnívoros y, ocasionalmente, al hombre.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/platelmintos/002-fasciola-main.png",
+    "category": "animalia",
+    "orden": "Echinostomida",
+    "familia": "Fasciolidae",
+    "género": "Fasciola",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/platelmintos/002-fasciola-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/platelmintos/002-fasciola-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/peligroso.jpg"
+    ],
+    "reino": "002 - Platelmintos",
+    "reino-2": "Reino animal"
+}

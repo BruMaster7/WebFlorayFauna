@@ -1,0 +1,19 @@
+{
+    "name": "Chucho",
+    "cientific_name": "Myliobatis goodei ",
+    "description": "El chucho es un pez de cuerpo aplanado con forma de rombo. Tiene una cola fina y larga en forma de látigo. El dorso es de color marrón rojizo y el vientre es blanco. Posee un aguijón con una sustancia tóxica que le permite defenderse. Llega a medir más de 1 m de longitud. Se alimenta de invertebrados que captura en el fondo de las zonas donde habita.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/013-chucho-main.png",
+    "category": "animalia",
+    "orden": "Rajiformes",
+    "familia": "Myliobatidae",
+    "género": "Myliobatis",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/013-chucho-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/013-chucho-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos-y-diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/peligroso.jpg"
+    ],
+    "reino": "013 - Peces",
+    "reino-2": "Reino animal"
+}

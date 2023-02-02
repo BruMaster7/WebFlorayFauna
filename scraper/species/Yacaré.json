@@ -1,0 +1,20 @@
+{
+    "name": "Yacaré",
+    "cientific_name": "Caiman latirostris",
+    "description": "El yacaré es la única especie de cocodriliano que habita en Uruguay. Es de color verde oliva a grisáceo y tiene manchas negras. Posee una cabeza robusta y un hocico corto y ancho. Las crías miden 22 cm y el adulto llega a medir 2,4 m de largo y a pesar unos 70 kg. Se alimenta de animales pequeños. Es un buen nadador y habita en lagunas, tajamares y embalses artificiales.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/003-yacare-main.png",
+    "category": "animalia",
+    "orden": "Crocodylia",
+    "familia": "Alligatoridae",
+    "género": "Caiman",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/003-yacare-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/003-yacare-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos-y-diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/escaso.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "003 - Reptiles",
+    "reino-2": "Reino animal"
+}

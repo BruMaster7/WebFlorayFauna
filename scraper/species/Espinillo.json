@@ -1,0 +1,17 @@
+{
+    "name": "Espinillo",
+    "cientific_name": "Acacia caven",
+    "description": "El espinillo es un árbol de follaje caduco, muy espinoso, de corteza rugosa y color castaño oscuro. Puede medir hasta 6 m de altura o comportarse como un arbusto ramificado desde su base. Florece a principios de primavera y fructifica en verano y otoño. Se reproduce fácilmente por semillas. Es una especie rústica, de fácil cultivo, utilizada con frecuencia en el diseño de parques y jardines.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/001-espinillo-main.png",
+    "category": "plantae",
+    "orden": "Fabales",
+    "familia": "Mimosaceae",
+    "género": "Acacia",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/001-espinillo-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/001-espinillo-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "001 - Reino vegetal",
+    "reino-2": ""
+}

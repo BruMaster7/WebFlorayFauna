@@ -1,0 +1,17 @@
+{
+    "name": "Almeja rosada",
+    "cientific_name": "Amiantis purpurata",
+    "description": "La almeja rosada es un molusco con un caparazón compuesto por 2 valvas (bivalvo) muy gruesas y resistentes, que protegen sus partes blandas. Las valvas son de color rosa púrpura por fuera y blancas por dentro, y pueden llegar a medir hasta 7 cm de largo. Vive en fondos marinos de arena fina de la costa atlántica.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/moluscos/001-almeja-rosada-main.png",
+    "category": "animalia",
+    "orden": "Veneroida",
+    "familia": "Veneridae",
+    "género": "Amiantis",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/moluscos/001-almeja-rosada-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/moluscos/001-almeja-rosada-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "001 - Moluscos",
+    "reino-2": "Reino animal"
+}

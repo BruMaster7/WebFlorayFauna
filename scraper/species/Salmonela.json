@@ -1,0 +1,15 @@
+{
+    "name": "Salmonela",
+    "cientific_name": "Salmonella enterica",
+    "description": "La salmonela es una bacteria con forma de bastón que presenta varios flagelos en todo su contorno. Estos flagelos son como pelos con un motor que, al vibrar, permiten que la bacteria se mueva y avance. Puede vivir en ambientes con o sin oxígeno. Tiene la capacidad de causar enfermedades en animales y en el ser humano.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-monera/004-salmonela-main.png",
+    "category": "monera",
+    "orden": "Enterobacteriales",
+    "familia": "Enterobacteriaceae",
+    "género": "Salmonella",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-monera/004-salmonela-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-monera/004-salmonela-location.png",
+    "images": [],
+    "reino": "004 - Reino monera",
+    "reino-2": ""
+}

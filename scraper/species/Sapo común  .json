@@ -1,0 +1,19 @@
+{
+    "name": "Sapo común  ",
+    "cientific_name": "Rhinella arenarum",
+    "description": "El sapo común tiene una coloración dorsal verdosa, marrón o grisácea (con manchas de color crema en todos los casos) y el vientre es de color blanco grisáceo. Mide 11 cm de longitud, pero algunos ejemplares llegan a medir 14 cm. Su alimentación incluye lombrices, hormigas y escarabajos. Habita en zonas húmedas y costeras arenosas.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/017-sapo-comun-main.png",
+    "category": "animalia",
+    "orden": "Anura",
+    "familia": "Bufonidae",
+    "género": "Rhinella",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/017-sapo-comun-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/017-sapo-comun-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "017 - Anfibios",
+    "reino-2": "Reino animal"
+}

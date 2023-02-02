@@ -1,0 +1,18 @@
+{
+    "name": "Pejerrey",
+    "cientific_name": "Odontesthes bonariensis",
+    "description": "El pejerrey es un pez de cuerpo fino y alargado, que llega a medir unos 50 cm. Su coloración es plateada con reflejos azules. No hay diferencia externa entre machos y hembras. Vive generalmente en cardúmenes, tanto en agua dulce como salada. Se alimenta de peces y de insectos.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/014-pejerrey-main.png",
+    "category": "animalia",
+    "orden": "Atheriniformes",
+    "familia": "Atherinospidae",
+    "género": "Odontesthes",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/014-pejerrey-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/014-pejerrey-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "014 - Peces",
+    "reino-2": "Reino animal"
+}

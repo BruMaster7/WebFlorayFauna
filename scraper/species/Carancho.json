@@ -1,0 +1,20 @@
+{
+    "name": "Carancho",
+    "cientific_name": "Caracara plancus",
+    "description": "El carancho tiene una cresta de plumas negras. El resto de la cabeza y el cuello son de color blanco grisáceo y en el pecho presenta rayas oscuras. La piel de la cara es roja. Las patas son largas y amarillas, y tienen garras poco curvadas. Se alimenta de carroña y de pequeños animales. Vive en diversos hábitats, incluyendo zonas pobladas de Uruguay.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/002-carancho-main.png",
+    "category": "animalia",
+    "orden": "Falconiformes",
+    "familia": "Falconidae",
+    "género": "Caracara",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/002-carancho-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/002-carancho-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/abundante.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "002 - Aves",
+    "reino-2": "Reino animal"
+}

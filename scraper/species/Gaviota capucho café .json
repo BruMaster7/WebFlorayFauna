@@ -1,0 +1,20 @@
+{
+    "name": "Gaviota capucho café ",
+    "cientific_name": "Chroicocephalus maculipennis",
+    "description": "Esta gaviota se caracteriza por su cabeza de color café. El pecho, la nuca y el vientre son de color blanco y el dorso es gris claro. Su pico es rojo oscuro y las patas presentan membranas entre los dedos, de color naranja. Mide hasta 37 cm y supera los 300 g. Se alimenta de peces, invertebrados y semillas. Vive en humedales y costas marinas.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/005-gaviota-capucho-cafe-main.png",
+    "category": "animalia",
+    "orden": "Charadriiformes",
+    "familia": "Laridae",
+    "género": "Chroicocephalus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/005-gaviota-capucho-cafe-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/005-gaviota-capucho-cafe-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/abundante.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "005 - Aves",
+    "reino-2": "Reino animal"
+}

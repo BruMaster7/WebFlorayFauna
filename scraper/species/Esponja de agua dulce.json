@@ -1,0 +1,17 @@
+{
+    "name": "Esponja de agua dulce",
+    "cientific_name": "Trochospongilla repens",
+    "description": "La esponja de agua dulce, Trochospongilla repens, es un porífero que crece cubriendo troncos y piedras en los fondos de grandes ríos sudamericanos. En Uruguay habita en fondos duros del río Uruguay y de algunos de sus afluentes.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/poriferos/002-esponja-de-agua-dulce-main.png",
+    "category": "animalia",
+    "orden": "Haplosclerida",
+    "familia": "Spongillidae",
+    "género": "Trochospongilla",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/poriferos/002-esponja-de-agua-dulce-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/poriferos/002-esponja-de-agua-dulce-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "002 - Poríferos",
+    "reino-2": "Reino animal"
+}

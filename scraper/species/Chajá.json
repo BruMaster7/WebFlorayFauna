@@ -1,0 +1,20 @@
+{
+    "name": "Chajá",
+    "cientific_name": "Chauna torquata",
+    "description": "El chajá es un ave gris, con una franja blanca y otra negra en el cuello. En la cabeza presenta una cresta gris, no posee plumas en la cara y su piel es roja. Las patas son largas, rojas y con membranas entre los dedos. Llega a medir 95 cm desde el pico a la cola y a pesar 4 kg. Se alimenta de vegetales e insectos y habita en humedales y zonas de siembra. ",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/004-chaja-main.png",
+    "category": "animalia",
+    "orden": "Anseriformes",
+    "familia": "Anhimidae",
+    "género": "Chauna",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/004-chaja-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/004-chaja-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/abundante.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "004 - Aves",
+    "reino-2": "Reino animal"
+}

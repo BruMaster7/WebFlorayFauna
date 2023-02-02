@@ -1,0 +1,17 @@
+{
+    "name": "Pindó",
+    "cientific_name": "Syagrus romanzoffiana",
+    "description": "La palma pindó se distribuye de manera natural en gran parte del territorio uruguayo. Por su adaptabilidad, es una de las palmeras más usadas para el adorno de parques y de vías públicas en el mundo. Es un elemento clave en los mitos fundacionales y en la cosmovisión de la cultura guaraní.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/031-pindo-main.png",
+    "category": "plantae",
+    "orden": "Arecales",
+    "familia": "Arecaceae",
+    "género": "Syagrus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/031-pindo-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/031-pindo-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "031 - Reino vegetal",
+    "reino-2": ""
+}

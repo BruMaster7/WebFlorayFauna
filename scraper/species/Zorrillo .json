@@ -1,0 +1,19 @@
+{
+    "name": "Zorrillo ",
+    "cientific_name": "Conepatus chinga",
+    "description": "El zorrillo es uno de los mamíferos más comunes en Uruguay. Es conocido porque, para defenderse, libera una sustancia de olor nauseabundo. Su pelaje es negruzco, con dos franjas blancas a lo largo del lomo. Llega a medir 70 cm de largo y a pesar 3 kg. Se alimenta de pequeños invertebrados y habita en praderas y montes.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/005-zorrillo-main.png",
+    "category": "animalia",
+    "orden": "Carnivora",
+    "familia": "Mustelidae",
+    "género": "Conepatus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/005-zorrillo-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/005-zorrillo-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "005 - Mamíferos",
+    "reino-2": "Reino animal"
+}

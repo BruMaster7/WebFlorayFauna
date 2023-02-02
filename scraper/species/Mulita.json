@@ -1,0 +1,18 @@
+{
+    "name": "Mulita",
+    "cientific_name": "Dasypus hybridus",
+    "description": "La mulita es un armadillo de color gris. Tiene un caparazón que usa como protección y que tiene 3 secciones. La anterior y la posterior son fijas y, entre esas dos, hay una central con 7 bandas móviles. Llega a medir 50 cm y pesa entre 1 y 2 kg. Se alimenta de insectos, principalmente de hormigas. Habita en praderas, pastizales y chircales de Uruguay.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/007-mulita-main.png",
+    "category": "animalia",
+    "orden": "Cingulata",
+    "familia": "Dasypodidae",
+    "género": "Dasypus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/007-mulita-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/007-mulita-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "007 - Mamíferos",
+    "reino-2": "Reino animal"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Vampiro",
+    "cientific_name": "Desmodus rotundus",
+    "description": "El vampiro es el murciélago más grande de la fauna de Uruguay. Su pelaje es de color gris a marrón, tiene alas anchas y carece de cola. Llega a medir 40 cm desde el extremo de un ala hasta el extremo de la otra (cuando están desplegadas) y puede superar los 50 g de peso. Se alimenta de sangre de mamíferos. Habita en zonas serranas y se refugia en grietas y en cavernas.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/008-vampiro-main.png",
+    "category": "animalia",
+    "orden": "Chiroptera",
+    "familia": "Phyllostomidae",
+    "género": "Desmodus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/008-vampiro-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/008-vampiro-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "008 - Mamíferos",
+    "reino-2": "Reino animal"
+}

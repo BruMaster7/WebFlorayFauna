@@ -1,0 +1,17 @@
+{
+    "name": "Hongo negro del pan ",
+    "cientific_name": "Rhizopus",
+    "description": "Rhizopus, también conocido como moho, es el llamado hongo negro del pan. Es un género de cigomicetos, hongos filamentosos que por lo general viven en el suelo y se alimentan de materia vegetal o animal en descomposición. Existen Rhizopus parientes de este hongo que afectan a plantas y frutos causando una pudrición blanda y acuosa.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-de-los-hongos/005-hongo-negro-del-pan-main.png",
+    "category": "fungi",
+    "orden": "Mucorales",
+    "familia": "Mucoraceae",
+    "género": "Rhizopus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-de-los-hongos/005-hongo-negro-del-pan-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-de-los-hongos/005-hongo-negro-del-pan-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/abundante.jpg"
+    ],
+    "reino": "005 - Reino de los hongos",
+    "reino-2": ""
+}

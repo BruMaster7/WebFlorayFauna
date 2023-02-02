@@ -1,0 +1,19 @@
+{
+    "name": "Aguará Guazú",
+    "cientific_name": "Chrysocyon brachyurus",
+    "description": "El aguará guazú es un cánido de pelaje rojizo y patas negras que puede llegar a medir 70 cm de alto. Esas características lo hacen fácilmente identificable. El zorro guará vive camuflado entre pastizales y pajonales. Se alimenta de vegetales y de otros animales más pequeños, a los que caza por las noches.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/003-aguara-guazu-main.png",
+    "category": "animalia",
+    "orden": "Carnivora",
+    "familia": "Canidae",
+    "género": "Chrysocyon",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/003-aguara-guazu-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/003-aguara-guazu-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/en-peligro-de-extincion.jpg"
+    ],
+    "reino": "003 - Mamíferos",
+    "reino-2": "Reino animal"
+}

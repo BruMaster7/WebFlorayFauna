@@ -1,0 +1,19 @@
+{
+    "name": "Tamanduá",
+    "cientific_name": "Tamandua tetradactyla",
+    "description": "El pelaje del tamanduá es beige, con una mancha marrón en forma de chaleco. Este animal tiene un hocico con una boca pequeña, sin dientes, y una lengua cilíndrica y viscosa. La cola es larga, fuerte y prensil. En las patas delanteras posee garras filosas. Llega a medir 1,35 m y a pesar 10 kg. Se alimenta de miel e insectos. Habita en bosques y praderas.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/019-tamandua-main.png",
+    "category": "animalia",
+    "orden": "Vermilingua",
+    "familia": "Myrmecophagidae",
+    "género": "Tamandua",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/019-tamandua-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/019-tamandua-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/en-peligro-de-extincion.jpg"
+    ],
+    "reino": "019 - Mamíferos",
+    "reino-2": "Reino animal"
+}

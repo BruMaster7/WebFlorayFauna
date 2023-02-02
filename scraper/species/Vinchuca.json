@@ -1,0 +1,18 @@
+{
+    "name": "Vinchuca",
+    "cientific_name": "Triatoma infestans",
+    "description": "La vinchuca presenta el cuerpo de color pardo, con un borde de bandas en colores pardos y claros. La cabeza es de forma afinada, presenta un par de antenas y 2 ojos pequeños. Los adultos llegan a medir entre 2,5 y 3 cm de largo. Se asocia al ser humano y animales domésticos por ser el vector causante de la enfermedad de Chagas.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/insectos/009-vinchuca-main.png",
+    "category": "animalia",
+    "orden": "Hemiptera",
+    "familia": "Reduviidae",
+    "género": "Triatoma",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/insectos/009-vinchuca-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/insectos/009-vinchuca-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "009 - Insectos",
+    "reino-2": "Reino animal"
+}

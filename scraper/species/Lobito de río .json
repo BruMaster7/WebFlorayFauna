@@ -1,0 +1,18 @@
+{
+    "name": "Lobito de río ",
+    "cientific_name": "Lontra longicaudis",
+    "description": "El lobito de río tiene el cuerpo alargado y de color marrón. Presenta membranas entre los dedos de las patas y en la cola, lo que le permite nadar y bucear de manera ágil. Llega a medir 1,5 m de largo y a pesar 15 kg. Se alimenta de peces y de otros animales acuáticos. Habita en ríos, arroyos, lagunas y bañados de todo Uruguay.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/014-lobito-de-rio-main.png",
+    "category": "animalia",
+    "orden": "Carnivora",
+    "familia": "Mustelidae",
+    "género": "Lontra",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/014-lobito-de-rio-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/014-lobito-de-rio-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos-y-diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "014 - Mamíferos",
+    "reino-2": "Reino animal"
+}

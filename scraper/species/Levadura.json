@@ -1,0 +1,15 @@
+{
+    "name": "Levadura",
+    "cientific_name": "Saccharomyces",
+    "description": "Las levaduras son hongos unicelulares muy pequeños, que solo pueden ser vistos con microscopio y que presentan formas variadas. Han sido utilizadas por el ser humano desde hace mucho tiempo para producir cerveza y pan, debido a su capacidad de descomponer carbohidratos, como el azúcar, mediante un proceso conocido como fermentación.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-de-los-hongos/006-levadura-main.png",
+    "category": "fungi",
+    "orden": "Saccharomycetales",
+    "familia": "Saccharomycetaceae",
+    "género": "Saccharomyces",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-de-los-hongos/006-levadura-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-de-los-hongos/006-levadura-location.png",
+    "images": [],
+    "reino": "006 - Reino de los hongos",
+    "reino-2": ""
+}

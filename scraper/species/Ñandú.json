@@ -1,0 +1,19 @@
+{
+    "name": "Ñandú",
+    "cientific_name": "Rhea americana",
+    "description": "El ñandú es el ave más grande de Sudamérica. El plumaje del cuerpo es gris; bajo las alas es blanco. La cabeza es pequeña, posee ojos grandes y cuello largo. Las patas largas están adaptadas para correr y no tienen plumas. Mide 1,50 m y pesa hasta 50 kg. Se alimenta de vegetales y pequeñas presas. Habita en pastizales abiertos, cultivos y bañados.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/018-nandu-main.png",
+    "category": "animalia",
+    "orden": "Struthioniformes",
+    "familia": "Rheidae",
+    "género": "Rhea",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/018-nandu-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/018-nandu-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/abundante.jpg"
+    ],
+    "reino": "018 - Aves",
+    "reino-2": "Reino animal"
+}

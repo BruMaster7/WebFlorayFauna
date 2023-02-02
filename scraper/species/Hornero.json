@@ -1,0 +1,20 @@
+{
+    "name": "Hornero",
+    "cientific_name": "Furnarius rufus",
+    "description": "El hornero es un ave de color marrón rojizo, con tonalidades más claras en la cola y en el pico. El adulto mide 20 cm y pesa hasta 57 g. Construye nidos de barro y paja con forma de horno de pan, lo que le da el nombre de hornero. Se alimenta de semillas y de pequeños animales. Habita en el campo y en la ciudad.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/010-hornero-main.png",
+    "category": "animalia",
+    "orden": "Passeriformes",
+    "familia": "Furnariidae",
+    "género": "Furnarius",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/010-hornero-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/010-hornero-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/abundante.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "010 - Aves",
+    "reino-2": "Reino animal"
+}

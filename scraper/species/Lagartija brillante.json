@@ -1,0 +1,20 @@
+{
+    "name": "Lagartija brillante",
+    "cientific_name": "Mabuya dorsivittata",
+    "description": "La lagartija brillante es el único representante de esta familia en Uruguay. Tiene escamas lisas, de aspecto brillante. Es de color castaño oscuro, con una línea negra en el dorso y dos blancas a los lados del cuerpo. Mide 22 cm de largo. Habita en pastizales cerca del agua y se alimenta de pequeños invertebrados.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/010-lagartija-brillante-main.png",
+    "category": "animalia",
+    "orden": "Squamata",
+    "familia": "Scincidae",
+    "género": "Mabuya",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/010-lagartija-brillante-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/010-lagartija-brillante-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/comun.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "010 - Reptiles",
+    "reino-2": "Reino animal"
+}

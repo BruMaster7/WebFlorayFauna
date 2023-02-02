@@ -1,0 +1,17 @@
+{
+    "name": "Brótola",
+    "cientific_name": "Urophycis brasiliensis",
+    "description": "La brótola es un pez alargado, de color gris oscuro en el dorso y blanco amarillento en el vientre. Tiene ojos pequeños y dos aletas dorsales. Cerca de la mandíbula presenta prolongaciones largas, que parecen bigotes. Llega a medir 60 cm de largo. Es una especie carnívora y habita cerca del fondo marino, en ambientes arenosos y fangosos.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/020-brotola-main.png",
+    "category": "animalia",
+    "orden": "Gadiformes",
+    "familia": "Phycidae",
+    "género": "Urophycis",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/020-brotola-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/020-brotola-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "020 - Peces",
+    "reino-2": "Reino animal"
+}

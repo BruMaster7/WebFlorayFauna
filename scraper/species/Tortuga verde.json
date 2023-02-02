@@ -1,0 +1,20 @@
+{
+    "name": "Tortuga verde",
+    "cientific_name": "Chelonia mydas",
+    "description": "La tortuga verde es una especie marina de caparazón ovalado, cabeza pequeña y patas en forma de aleta. Los juveniles tienen el dorso de color castaño rojizo; los adultos, de tonos oliva con bandas amarillentas y verdes, y con manchas negras. La hembra llega a medir 1,20 m de largo y a pesar 120 kg. El adulto se alimenta de algas marinas.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/006-tortuga-verde-main.png",
+    "category": "animalia",
+    "orden": "Testudines",
+    "familia": "Cheloniidae",
+    "género": "Chelonia",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/006-tortuga-verde-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/006-tortuga-verde-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos-y-diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/escaso.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/en-peligro-de-extincion.jpg"
+    ],
+    "reino": "006 - Reptiles",
+    "reino-2": "Reino animal"
+}

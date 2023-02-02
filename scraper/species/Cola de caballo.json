@@ -1,0 +1,17 @@
+{
+    "name": "Cola de caballo",
+    "cientific_name": "Equisetum giganteum",
+    "description": "La cola de caballo es una hierba perenne de tallos erguidos, que puede alcanzar hasta 3 m de altura. Tiene tallos subterráneos y aéreos. Las hojas están reducidas y se unen entre sí formando una corona alrededor de cada nudo. Por sus numerosos usos, es una de las plantas más conocidas popularmente.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/009-cola-de-caballo-main.png",
+    "category": "plantae",
+    "orden": "Equisetales",
+    "familia": "Equisetaceae",
+    "género": "Equisetum",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/009-cola-de-caballo-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/009-cola-de-caballo-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "009 - Reino vegetal",
+    "reino-2": ""
+}

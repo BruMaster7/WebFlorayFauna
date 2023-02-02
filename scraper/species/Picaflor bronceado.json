@@ -1,0 +1,20 @@
+{
+    "name": "Picaflor bronceado",
+    "cientific_name": "Hylocharis chrysura",
+    "description": "El picaflor bronceado se caracteriza por su pico recto, rojo y con punta negra. El plumaje es de color bronce, con brillos metálicos. Su lengua es muy larga, lo que le ayuda a obtener el néctar de las flores. Mide hasta 10 cm y pesa 5 g. Se alimenta de néctar y de artrópodos. Habita en jardines, montes y zonas arboladas de todo Uruguay.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/013-picaflor-bronceado-main.png",
+    "category": "animalia",
+    "orden": "Apodiformes",
+    "familia": "Trochilidae",
+    "género": "Hylocharis",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/013-picaflor-bronceado-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/013-picaflor-bronceado-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/abundante.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "013 - Aves",
+    "reino-2": "Reino animal"
+}

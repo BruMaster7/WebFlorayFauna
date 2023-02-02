@@ -1,0 +1,17 @@
+{
+    "name": "Velela",
+    "cientific_name": "Velella velella",
+    "description": "La velela es un cnidario de color azul, que mide entre 2 y 10 cm de diámetro. Tiene un órgano flotador que consiste en un disco ovalado con una vela. Se alimenta de zooplancton que captura con sus tentáculos. Flota en la superficie de aguas oceánicas y llega a la costa al ser arrastrada por la corriente.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/cnidarios/003-velela-main.png",
+    "category": "animalia",
+    "orden": "Anthoathecata",
+    "familia": "Porpitidae",
+    "género": "Velella",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/cnidarios/003-velela-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/cnidarios/003-velela-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "003 - Cnidarios",
+    "reino-2": "Reino animal"
+}

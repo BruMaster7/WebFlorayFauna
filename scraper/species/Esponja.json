@@ -1,0 +1,17 @@
+{
+    "name": "Esponja",
+    "cientific_name": "Haliclona sp.",
+    "description": "La esponja es un invertebrado acuático sésil, mayoritariamente marino. Su cuerpo tiene forma de saco y tiene una cavidad interna que se comunica con el exterior a través de una gran apertura superior (llamada ósculo) y de muchos poros pequeños. Se alimenta de partículas orgánicas que obtiene filtrando el agua.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/poriferos/001-esponja-main.png",
+    "category": "animalia",
+    "orden": "Haplosclerida",
+    "familia": "Chalinidae",
+    "género": "Haliclona",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/poriferos/001-esponja-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/poriferos/001-esponja-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "001 - Poríferos",
+    "reino-2": "Reino animal"
+}

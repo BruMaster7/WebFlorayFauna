@@ -1,0 +1,17 @@
+{
+    "name": "Gusano de mar ",
+    "cientific_name": "Alitta succinea",
+    "description": "El gusano de mar es un poliqueto marino que presenta el cuerpo con segmentos cilíndricos idénticos. Cada uno de estos tiene un par de apéndices laterales carnosos. En la cabeza tiene 4 pares de tentáculos, un par de palpos y un par de antenas. Llega a medir 19 cm. Se alimenta de materia orgánica y de pequeños invertebrados. Vive enterrado en el sedimento.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anelidos/001-gusano-de-mar-main.png",
+    "category": "animalia",
+    "orden": "Phyllodocida",
+    "familia": "Nereididae",
+    "género": "Alitta",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anelidos/001-gusano-de-mar-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anelidos/001-gusano-de-mar-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "001 - Anélidos",
+    "reino-2": "Reino animal"
+}

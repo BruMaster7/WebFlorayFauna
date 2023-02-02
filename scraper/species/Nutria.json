@@ -1,0 +1,19 @@
+{
+    "name": "Nutria",
+    "cientific_name": "Myocastor coypus",
+    "description": "La nutria es un roedor de color marrón. Tiene una cola larga y, entre los dedos de las patas posteriores, tiene membranas. Sus dientes incisivos, de color anaranjado, son muy visibles. Llega a medir 1 m de largo y pesa hasta 8 kg. Se alimenta de vegetales y vive en cursos de agua, lagunas, bañados y tajamares.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/016-nutria-main.png",
+    "category": "animalia",
+    "orden": "Rodentia",
+    "familia": "Myocastoridae",
+    "género": "Myocastor",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/016-nutria-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/016-nutria-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos-y-diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "016 - Mamíferos",
+    "reino-2": "Reino animal"
+}

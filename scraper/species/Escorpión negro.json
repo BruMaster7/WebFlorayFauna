@@ -1,0 +1,19 @@
+{
+    "name": "Escorpión negro",
+    "cientific_name": "Bothriurus bonariensis",
+    "description": "El escorpión negro es de color negro oscuro o castaño rojizo. En la región anterior tiene dos grandes pedipalpos transformados en pinzas, que utiliza para defenderse y también como órgano sensorial. En el extremo posterior tiene una estructura llamada telson que contiene la glándula del veneno y un aguijón. Mide entre 5 y 7 cm de largo. Se alimenta principalmente de insectos.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aracnidos/003-escorpion-negro-main.png",
+    "category": "animalia",
+    "orden": "Escorpiónida",
+    "familia": "Bothriuridae",
+    "género": "Bothriurus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aracnidos/003-escorpion-negro-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aracnidos/003-escorpion-negro-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/comun.jpg"
+    ],
+    "reino": "003 - Arácnidos",
+    "reino-2": "Reino animal"
+}

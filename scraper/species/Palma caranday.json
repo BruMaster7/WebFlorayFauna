@@ -1,0 +1,17 @@
+{
+    "name": "Palma caranday",
+    "cientific_name": "Trithrinax campestris",
+    "description": "La palma caranday es una palmera que puede alcanzar hasta 3 m de altura y 25 cm de diámetro. Sus hojas son de color verde blanquecino, en ocasiones presentan tonos azulados y están divididas en segmentos rígidos y punzantes llamados pínulas. Esta palma es interesante para su uso en jardinería debido a su forma y al color de sus flores.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/032-palma-caranday-main.png",
+    "category": "plantae",
+    "orden": "Arecales",
+    "familia": "Arecaceae",
+    "género": "Trithrinax",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/032-palma-caranday-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/032-palma-caranday-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "032 - Reino vegetal",
+    "reino-2": ""
+}

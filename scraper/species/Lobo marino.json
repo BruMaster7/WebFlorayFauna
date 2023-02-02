@@ -1,0 +1,19 @@
+{
+    "name": "Lobo marino",
+    "cientific_name": "Arctocephalus australis",
+    "description": "El lobo marino es un mamífero de pelaje marrón y cuerpo alargado. Tiene aletas delanteras y traseras que le permiten desplazarse en la tierra y en el agua. El macho es de mayor tamaño que la hembra. Llega a medir 1,8 m de largo y a pesar 140 kg. Se alimenta de peces, calamares y crustáceos. Habita en islas costeras, puntas rocosas y en el mar.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/001-lobo-marino-main.png",
+    "category": "animalia",
+    "orden": "Carnivora",
+    "familia": "Otariidae",
+    "género": "Arctocephalus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/001-lobo-marino-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/001-lobo-marino-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "001 - Mamíferos",
+    "reino-2": "Reino animal"
+}

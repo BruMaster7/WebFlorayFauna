@@ -1,0 +1,17 @@
+{
+    "name": "Anémona de mar",
+    "cientific_name": "Bunodosoma cangicum",
+    "description": "La anémona de mar o actinia es un animal de cuerpo cilíndrico. Su color es variable, puede presentar tonalidades azuladas, verdosas y rojizas. Alrededor de la boca tiene tentáculos que le permiten atrapar a su presa. Llega a medir 7 cm de diámetro. Se alimenta de peces y de animales pequeños. Vive fija al fondo marino. ",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/cnidarios/001-anemona-de-mar-main.png",
+    "category": "animalia",
+    "orden": "Actiniaria",
+    "familia": "Actiniidae",
+    "género": "Bunodosoma",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/cnidarios/001-anemona-de-mar-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/cnidarios/001-anemona-de-mar-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "001 - Cnidarios",
+    "reino-2": "Reino animal"
+}

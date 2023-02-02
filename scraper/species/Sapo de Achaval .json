@@ -1,0 +1,18 @@
+{
+    "name": "Sapo de Achaval ",
+    "cientific_name": "Rhinella achavali",
+    "description": "El sapo de Achaval tiene una coloración dorsal variable: puede ser ocre, castaña oscura o verde amarillenta. En general llega a medir 17 cm de longitud, pero algunos ejemplares son de mayor tamaño. Se alimenta de artrópodos (hormigas, escarabajos y arañas) y de pequeños moluscos (caracoles). Vive en quebradas y en zonas serranas.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/016-sapo-de-achaval-main.png",
+    "category": "animalia",
+    "orden": "Anura",
+    "familia": "Bufonidae",
+    "género": "Rhinella",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/016-sapo-de-achaval-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/016-sapo-de-achaval-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "016 - Anfibios",
+    "reino-2": "Reino animal"
+}

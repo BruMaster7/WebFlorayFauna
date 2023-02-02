@@ -1,0 +1,19 @@
+{
+    "name": "Mano pelada",
+    "cientific_name": "Procyon cancrivorus",
+    "description": "El mano pelada tiene la mayor parte de su pelaje de color grisáceo, la cola anillada y manchas en la cara en forma de antifaz. Llega a medir 1,25 m de longitud y a pesar 10 kg. Se alimenta principalmente de cangrejos. Por la noche recorre las orillas de ríos, arroyos y bañados y se refugia en huecos de árboles.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/017-mano-pelada-main.png",
+    "category": "animalia",
+    "orden": "Carnivora",
+    "familia": "Procyonidae",
+    "género": "Procyon",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/017-mano-pelada-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/017-mano-pelada-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "017 - Mamíferos",
+    "reino-2": "Reino animal"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Junco",
+    "cientific_name": "Schoenoplectus californicus",
+    "description": "El junco es una hierba acuática perenne que puede medir hasta 2 m de altura. Sus tallos presentan 3 caras con los bordes redondeados. Las hojas están reducidas en una vaina o pequeña lámina y las flores se agrupan como espigas. Florece en primavera y en verano. Habita en el litoral del Río de la Plata y forma juncales.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/027-junco-main.png",
+    "category": "plantae",
+    "orden": "Poales",
+    "familia": "Cyperaceae",
+    "género": "Schoenoplectus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/027-junco-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/027-junco-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "027 - Reino vegetal",
+    "reino-2": ""
+}

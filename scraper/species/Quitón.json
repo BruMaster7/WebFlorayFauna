@@ -1,0 +1,17 @@
+{
+    "name": "Quitón",
+    "cientific_name": "Chaetopleura aspérrima",
+    "description": "El quitón es un molusco poliplacóforo. Su cuerpo es ovalado y aplanado, y está cubierto por 8 placas calcáreas articuladas entre sí. Puede enroscarse formando una bola protegida por las placas. Se alimenta de algas y se encuentra sobre rocas u otros animales en el fondo marino, donde habita.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/moluscos/003-quiton-main.png",
+    "category": "animalia",
+    "orden": "Chitonida",
+    "familia": "Chaetopleuridae",
+    "género": "Chaetopleura",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/moluscos/003-quiton-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/moluscos/003-quiton-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "003 - Moluscos",
+    "reino-2": "Reino animal"
+}

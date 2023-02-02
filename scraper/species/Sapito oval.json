@@ -1,0 +1,19 @@
+{
+    "name": "Sapito oval",
+    "cientific_name": "Elachistocleis bicolor",
+    "description": "El sapito oval presenta una coloración entre gris y castaña en el dorso y amarilla en el vientre. En el muslo de los adultos se puede ver una línea amarilla o naranja. En los juveniles, esa línea es de color rojo coral. Su cuerpo es ovoide. La cabeza es pequeña y de forma triangular. Mide hasta 4,5 cm. Se alimenta de hormigas. Habita en zonas húmedas y en lagunas temporales.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/004-sapito-oval-main.png",
+    "category": "animalia",
+    "orden": "Anura",
+    "familia": "Microhylidae",
+    "género": "Elachistocleis",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/004-sapito-oval-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/004-sapito-oval-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "004 - Anfibios",
+    "reino-2": "Reino animal"
+}

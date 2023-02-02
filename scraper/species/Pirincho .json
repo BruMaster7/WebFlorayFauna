@@ -1,0 +1,20 @@
+{
+    "name": "Pirincho ",
+    "cientific_name": "Guira guira",
+    "description": "El pirincho tiene un penacho de plumas de color naranja en la cabeza. El pecho y el vientre son claros y en el dorso presenta rayas marrones. El pico es fuerte y de color amarillo; la cola es larga y ancha. Es un ave que llega a medir 36 cm y a pesar 140 g. Se alimenta de pequeñas presas y de frutos. Habita en montes abiertos, praderas y zonas urbanas.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/012-pirincho-main.png",
+    "category": "animalia",
+    "orden": "Cuculiformes",
+    "familia": "Cuculidae",
+    "género": "Guira",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/012-pirincho-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/012-pirincho-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/abundante.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "012 - Aves",
+    "reino-2": "Reino animal"
+}

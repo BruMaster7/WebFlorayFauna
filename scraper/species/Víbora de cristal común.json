@@ -1,0 +1,20 @@
+{
+    "name": "Víbora de cristal común",
+    "cientific_name": "Ophiodes vertebralis",
+    "description": "La víbora de cristal común es una lagartija sin patas. Por ese motivo es frecuente confundirla con una serpiente. Es de color castaño grisáceo y tiene líneas oscuras a lo largo del cuerpo. Mide entre 8,5 y 35 cm de largo. Se alimenta de artrópodos, arañas e insectos y habita en pastizales y praderas.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/012-vibora-de-cristal-comun-main.png",
+    "category": "animalia",
+    "orden": "Squamata",
+    "familia": "Anguidae",
+    "género": "Ophiodes",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/012-vibora-de-cristal-comun-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/012-vibora-de-cristal-comun-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos-y-diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/comun.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "012 - Reptiles",
+    "reino-2": "Reino animal"
+}

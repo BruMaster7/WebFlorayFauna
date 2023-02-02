@@ -1,0 +1,19 @@
+{
+    "name": "Yapok",
+    "cientific_name": "Chironectes minimus",
+    "description": "El yapok es una comadreja acuática. Su pelaje es grisáceo con grandes manchas negras en el dorso. Las patas traseras presentan membranas entre los dedos. Llega a medir más de 70 cm de longitud y pesa entre 500 y 800 g. Se alimenta de pequeños vertebrados e invertebrados acuáticos. Vive en corrientes de aguas cristalinas.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/002-yapok-main.png",
+    "category": "animalia",
+    "orden": "Didelphimorphia",
+    "familia": "Didelphidae",
+    "género": "Chironectes",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/002-yapok-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/002-yapok-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/en-peligro-de-extincion.jpg"
+    ],
+    "reino": "002 - Mamíferos",
+    "reino-2": "Reino animal"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Camarón de laguna",
+    "cientific_name": "Farfantepenaeus paulensis ",
+    "description": "El camarón de laguna tiene el cuerpo transparente con tono amarronado. Sus apéndices le permiten desplazarse en el fondo y le ayudan a capturar alimento. Llega a medir 30 cm de largo total y vive aproximadamente 1 año. Se alimenta de microalgas y de materia orgánica. Habita parte de su vida en el mar y parte en lagunas costeras de Uruguay y Brasil.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/crustaceos/004-camaron-de-laguna-main.png",
+    "category": "animalia",
+    "orden": "Decapoda",
+    "familia": "Penaeidae",
+    "género": "Farfantepenaeus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/crustaceos/004-camaron-de-laguna-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/crustaceos/004-camaron-de-laguna-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "004 - Crustáceos",
+    "reino-2": "Reino animal"
+}

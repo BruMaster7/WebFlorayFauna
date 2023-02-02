@@ -1,0 +1,19 @@
+{
+    "name": "Rana hocicuda",
+    "cientific_name": "Scinax squalirostris",
+    "description": "La rana hocicuda presenta una coloración marrón clara en el dorso. Tiene dos bandas amarillentas bordeadas por un fondo castaño oscuro y el vientre es de un tono blanquecino. Mide hasta 2,5 cm de longitud. Se alimenta de pequeños artrópodos como mosquitos y pulgones. Habita en zonas de bañados y pastizales húmedos.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/019-rana-hocicuda-main.png",
+    "category": "animalia",
+    "orden": "Anura",
+    "familia": "Hylidae",
+    "género": "Scinax",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/019-rana-hocicuda-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/019-rana-hocicuda-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "019 - Anfibios",
+    "reino-2": "Reino animal"
+}

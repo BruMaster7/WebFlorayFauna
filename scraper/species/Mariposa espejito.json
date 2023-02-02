@@ -1,0 +1,18 @@
+{
+    "name": "Mariposa espejito",
+    "cientific_name": "Agraulis vanillae maculosa ",
+    "description": "La mariposa espejito es de color anaranjado y tiene bordes negros. En el lado ventral de las alas tiene unas manchas que, cuando les da el sol, reflejan colores brillantes y confunden a posibles predadores. Mide unos 6 o 7 cm de largo. Es común verla en la planta trepadora murucuyá, donde se alimenta de polen y néctar y donde deposita sus huevos.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/insectos/003-mariposa-espejito-main.png",
+    "category": "animalia",
+    "orden": "Lepidoptera",
+    "familia": "Nymphalidae",
+    "género": "Agraulis",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/insectos/003-mariposa-espejito-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/insectos/003-mariposa-espejito-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "003 - Insectos",
+    "reino-2": "Reino animal"
+}

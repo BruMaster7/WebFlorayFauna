@@ -1,0 +1,17 @@
+{
+    "name": "Camalote",
+    "cientific_name": "Eichhornia azurea ",
+    "description": "El camalote, también conocido como lirio o violeta del agua, es una hierba perenne, acuática, arraigada al sustrato, de tallos y hojas flotantes. Las flores se disponen como espigas, son de color azul o violáceo y tienen una mancha amarilla en el tépalo superior. Esta hierba habita en arroyos y lagunas, y se distribuye en todo Uruguay.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/007-camalote-main.png",
+    "category": "plantae",
+    "orden": "Commelinales",
+    "familia": "Pontederiaceae",
+    "género": "Eichhornia",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/007-camalote-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/007-camalote-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "007 - Reino vegetal",
+    "reino-2": ""
+}

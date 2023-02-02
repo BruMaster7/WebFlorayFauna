@@ -1,0 +1,18 @@
+{
+    "name": "Almeja de río",
+    "cientific_name": "Anodontites trapezialis",
+    "description": "La almeja de río es el molusco bivalvo de mayor tamaño en Uruguay. Sus dos valvas tienen forma de trapecio y su coloración varía entre marrón y verde. Puede llegar a medir 20 cm de largo. Se alimenta de pequeños organismos y de materia orgánica. Vive enterrada en el fondo de barro y en la arena de ríos y arroyos.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/moluscos/002-almeja-de-rio-main.png",
+    "category": "animalia",
+    "orden": "Unionoida",
+    "familia": "Mycetopodidae",
+    "género": "Anodontites",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/moluscos/002-almeja-de-rio-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/moluscos/002-almeja-de-rio-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/en-peligro-de-extincion.jpg"
+    ],
+    "reino": "002 - Moluscos",
+    "reino-2": "Reino animal"
+}

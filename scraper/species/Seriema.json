@@ -1,0 +1,20 @@
+{
+    "name": "Seriema",
+    "cientific_name": "Cariama cristata",
+    "description": "La seriema se distingue porque tiene un penacho de plumas en la base del pico. Su plumaje es pardo grisáceo, con manchas marrones y negras. Las patas son largas y de color rojo, al igual que el pico. Llega a medir 70 cm de alto y a pesar 1,5 kg. Habita en pastizales serranos y come pequeños animales.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/003-seriema-main.png",
+    "category": "animalia",
+    "orden": "Gruiformes",
+    "familia": "Cariamidae",
+    "género": "Cariama",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/003-seriema-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/003-seriema-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/comun.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "003 - Aves",
+    "reino-2": "Reino animal"
+}

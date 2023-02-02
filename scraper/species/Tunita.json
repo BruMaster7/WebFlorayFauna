@@ -1,0 +1,17 @@
+{
+    "name": "Tunita",
+    "cientific_name": "Opuntia aurantiaca Lindl.",
+    "description": "La tunita es un cacto muy ramificado y se encuentra en el suelo. Se puede confundir entre pastos y arbustos o en lugares con muchas rocas. Tiene tallos articulados, cilíndricos, de color verde con tonos rojizos y muy espinosos. Mide entre 5 y 15 cm de longitud. Presenta adaptaciones para soportar condiciones de extrema sequedad del ambiente.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/017-tunita-main.png",
+    "category": "plantae",
+    "orden": "Caryophyllales",
+    "familia": "Cactaceae",
+    "género": "Opuntia",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/017-tunita-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/017-tunita-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "017 - Reino vegetal",
+    "reino-2": ""
+}

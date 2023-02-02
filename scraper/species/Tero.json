@@ -1,0 +1,20 @@
+{
+    "name": "Tero",
+    "cientific_name": "Vanellus chilensis",
+    "description": "El tero común es un ave que presenta una cresta oscura en la cabeza, plumaje grisáceo, el vientre blanco y el pecho negro. La punta del pico es negra. Las patas son largas, finas y de color rojo. El adulto pesa 400 g y mide entre 30 y 35 cm de largo. Se alimenta de pequeños animales y habita en campo abierto y en ciudad.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/020-tero-main.png",
+    "category": "animalia",
+    "orden": "Charadriiformes",
+    "familia": "Charadriidae",
+    "género": "Vanellus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/020-tero-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/020-tero-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/abundante.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "020 - Aves",
+    "reino-2": "Reino animal"
+}

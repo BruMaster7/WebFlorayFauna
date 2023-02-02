@@ -1,0 +1,18 @@
+{
+    "name": "Bicho torito",
+    "cientific_name": "Diloboderus abderus",
+    "description": "El bicho torito es un insecto de coloración marrón en la hembra y negra en el macho. El macho tiene en la cabeza un cuerno largo, fino y curvado hacia atrás, y otro más corto y curvado hacia adelante en el protórax. El adulto mide entre 2 y 3 cm de longitud. Se alimenta de plantas y vive en praderas, jardines y parques.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/insectos/005-bicho-torito-main.png",
+    "category": "animalia",
+    "orden": "Coleoptera",
+    "familia": "Scarabaeidae",
+    "género": "Diloboderus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/insectos/005-bicho-torito-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/insectos/005-bicho-torito-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos-y-diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "005 - Insectos",
+    "reino-2": "Reino animal"
+}

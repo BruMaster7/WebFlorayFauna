@@ -1,0 +1,17 @@
+{
+    "name": "Lechuga de mar",
+    "cientific_name": "Ulva lactuca",
+    "description": "La lechuga de mar tiene hojas grandes de color verde brillante, con bordes redondeados, y está formada por 2 capas de células. Mide entre 30 cm y 1 m de largo, y de ancho llega a medir 40 cm. Es muy parecida a la lechuga que consumimos y de ese parecido viene su nombre. Habita en océanos y puede encontrarse fija en las piedras o conchas de mar.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-protista/008-lechuga-de-mar-main.png",
+    "category": "protista",
+    "orden": "Ulvales",
+    "familia": "Ulvaceae",
+    "género": "Ulva",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-protista/008-lechuga-de-mar-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-protista/008-lechuga-de-mar-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/comun.jpg"
+    ],
+    "reino": "008 - Reino protista",
+    "reino-2": ""
+}

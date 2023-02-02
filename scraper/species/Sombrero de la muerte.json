@@ -1,0 +1,18 @@
+{
+    "name": "Sombrero de la muerte",
+    "cientific_name": "Amanita phalloides",
+    "description": "El sombrero de la muerte es el hongo más peligroso que existe en Uruguay. Su pie es cilíndrico y de color blanquecino con tonos verdosos. Tiene un anillo membranoso y un saco (volva) en la base y puede superar los 10 cm de altura. El sombrero es verde oliváceo y llega a medir 14 cm de diámetro. Este hongo vive en simbiosis con robles y algunas especies de pinos.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-de-los-hongos/001-sombrero-de-la-muerte-main.png",
+    "category": "fungi",
+    "orden": "Agaricales",
+    "familia": "Amanitaceae",
+    "género": "Amanita",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-de-los-hongos/001-sombrero-de-la-muerte-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-de-los-hongos/001-sombrero-de-la-muerte-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/exoticos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/peligroso.jpg"
+    ],
+    "reino": "001 - Reino de los hongos",
+    "reino-2": ""
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Bagre amarillo",
+    "cientific_name": "Pimelodus maculatus",
+    "description": "El bagre amarillo es un pez de cabeza grande y alta. Tiene la boca ancha y rodeada por 6 barbillas sensibles. Su cuerpo es amarillo con manchas negras y sin escamas. Puede crecer hasta los 40 cm de largo. Se alimenta de insectos, pequeños peces, crustáceos y restos vegetales que obtiene en los ríos y los arroyos donde habita.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/015-bagre-amarillo-main.png",
+    "category": "animalia",
+    "orden": "Siluriformes",
+    "familia": "Pimelodidae",
+    "género": "Pimelodus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/015-bagre-amarillo-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/015-bagre-amarillo-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "015 - Peces",
+    "reino-2": "Reino animal"
+}

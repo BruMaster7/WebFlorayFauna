@@ -1,0 +1,18 @@
+{
+    "name": "Tucu tucu",
+    "cientific_name": "Ctenomys pearsoni",
+    "description": "El tucu tucu es un roedor subterráneo. Su cuerpo es robusto y su cola es corta. La cabeza y los ojos son grandes y las orejas muy pequeñas. Sus dientes incisivos son grandes y anaranjados, y tiene fuertes uñas para excavar. Mide hasta 28 cm de largo y pesa unos 300 g. Se alimenta de vegetales y habita en suelos arenosos, donde construye túneles y cuevas.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/006-tucu-tucu-main.png",
+    "category": "animalia",
+    "orden": "Rodentia",
+    "familia": "Ctenomyidae",
+    "género": "Ctenomys",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/006-tucu-tucu-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/006-tucu-tucu-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos-y-diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "006 - Mamíferos",
+    "reino-2": "Reino animal"
+}

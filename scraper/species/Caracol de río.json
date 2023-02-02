@@ -1,0 +1,17 @@
+{
+    "name": "Caracol de río",
+    "cientific_name": "Pomella megastoma",
+    "description": "El caracol de río es un molusco gasterópodo de agua dulce. Su caparazón es globoso y de color marrón claro. En Uruguay habita en fondos duros del río Uruguay y en algunos de sus afluentes.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/moluscos/008-caracol-de-rio-main.png",
+    "category": "animalia",
+    "orden": "Architaenioglossa",
+    "familia": "Ampullaridae",
+    "género": "Pomella",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/moluscos/008-caracol-de-rio-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/moluscos/008-caracol-de-rio-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "008 - Moluscos",
+    "reino-2": "Reino animal"
+}

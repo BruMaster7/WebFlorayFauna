@@ -1,0 +1,18 @@
+{
+    "name": "Lombriz de tierra",
+    "cientific_name": "Lumbricus terrestris",
+    "description": "La lombriz de tierra es un anélido subterráneo. Su cuerpo es alargado, de color rosa o marrón, y está dividido en muchos segmentos, los cuales tienen 4 pares de quetas (similares a pelos rígidos) que le sirven para moverse por los túneles que excava. Llega a medir 30 cm de largo y se alimenta de materia orgánica en descomposición.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anelidos/003-lombriz-de-tierra-main.png",
+    "category": "animalia",
+    "orden": "Haplotaxida",
+    "familia": "Lumbricidae",
+    "género": "Lumbricus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anelidos/003-lombriz-de-tierra-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anelidos/003-lombriz-de-tierra-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/exoticos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/abundante.jpg"
+    ],
+    "reino": "003 - Anélidos",
+    "reino-2": "Reino animal"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Yerba mate",
+    "cientific_name": "Ilex paraguariensis",
+    "description": "La yerba mate es un árbol de follaje perenne, de color verde, con un tronco que se caracteriza por presentar manchas blanquecinas. Puede alcanzar hasta 20 m de altura. Sus hojas son simples con bordes dentados y los frutos son carnosos. Se conoce popularmente porque con sus hojas se prepara la yerba que se vende para la típica infusión.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/013-yerba-mate-main.png",
+    "category": "plantae",
+    "orden": "Aquifoliales",
+    "familia": "Aquifoliaceae",
+    "género": "Ilex",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/013-yerba-mate-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/013-yerba-mate-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "013 - Reino vegetal",
+    "reino-2": ""
+}

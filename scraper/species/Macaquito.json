@@ -1,0 +1,19 @@
+{
+    "name": "Macaquito",
+    "cientific_name": "Pseudopaludicola falcipes",
+    "description": "El macaquito tiene una coloración dorsal marrón o gris, con pequeñas manchas oscuras. Algunos ejemplares presentan una línea dorsal de color rojo coral o amarillo, y una cadena de glándulas en forma de “x”. Mide entre 1,5 y 2 cm de longitud. Se alimenta de ácaros, colémbolos y chinches. Habita en pastizales húmedos y en pajonales.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/015-macaquito-main.png",
+    "category": "animalia",
+    "orden": "Anura",
+    "familia": "Leiuperidae",
+    "género": "Pseudopaludicola",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/015-macaquito-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/015-macaquito-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "015 - Anfibios",
+    "reino-2": "Reino animal"
+}

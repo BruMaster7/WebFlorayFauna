@@ -1,0 +1,21 @@
+{
+    "name": "Crucera",
+    "cientific_name": "Rhinocerophis alternatus",
+    "description": "La crucera es una serpiente robusta. Es de color castaño o gris oscuro en el dorso y tiene el vientre amarillo con manchas negras. Presenta dibujos a cada lado del cuerpo en forma de \"c\". Llega a medir 1,50 m de longitud. Es ponzoñosa y su mordedura puede causar la muerte. Se alimenta de roedores y habita en pajonales, esteros, montes y bañados.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/016-crucera-main.png",
+    "category": "animalia",
+    "orden": "Squamata",
+    "familia": "Viperidae",
+    "género": "Rhinocerophis",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/016-crucera-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/016-crucera-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos-y-diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/comun.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/peligroso.jpg"
+    ],
+    "reino": "016 - Reptiles",
+    "reino-2": "Reino animal"
+}

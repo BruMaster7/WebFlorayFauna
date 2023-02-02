@@ -1,0 +1,18 @@
+{
+    "name": "Bicho de la humedad",
+    "cientific_name": "Oniscidea indet.",
+    "description": "El bicho de la humedad o bicho bolita es un crustáceo pequeño que llega a medir entre 10 y 12 mm de longitud. Tiene un esqueleto externo rígido y segmentado que le permite enrollarse, y tiene 7 pares de patas. Se alimenta de restos orgánicos vegetales y animales. Vive en zonas terrestres húmedas, con poco sol.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/crustaceos/006-bicho-de-la-humedad-main.png",
+    "category": "animalia",
+    "orden": "Isopoda",
+    "familia": "No determinada",
+    "género": "No determinado",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/crustaceos/006-bicho-de-la-humedad-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/crustaceos/006-bicho-de-la-humedad-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos-y-diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/exoticos.jpg"
+    ],
+    "reino": "006 - Crustáceos",
+    "reino-2": "Reino animal"
+}

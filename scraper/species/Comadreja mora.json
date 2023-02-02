@@ -1,0 +1,19 @@
+{
+    "name": "Comadreja mora",
+    "cientific_name": "Didelphis albiventris",
+    "description": "La comadreja mora tiene un pelaje de aspecto grisáceo, formado por pelos de varios colores. Su cola es larga y prensil y la posición de los dedos pulgares le ayudan a trepar. Llega a medir 90 cm de largo y a pesar 2 kg. Es omnívora: se alimenta de animales, frutas y vegetales. Habita en zonas rurales y urbanas.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/009-comadreja-mora-main.png",
+    "category": "animalia",
+    "orden": "Didelphimorphia",
+    "familia": "Didelphidae",
+    "género": "Didelphis",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/009-comadreja-mora-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/009-comadreja-mora-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "009 - Mamíferos",
+    "reino-2": "Reino animal"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Culebra de Peñarol",
+    "cientific_name": "Liophis poecilogyrus sublineatus",
+    "description": "La culebra de Peñarol es una serpiente de colores amarillo y negro. La cabeza es ancha, negra y la región de la boca es amarilla. Su cuerpo es cilíndrico y llega a medir 72 cm de largo. La hembra es más grande que el macho. Se alimenta principalmente de ranas y sapos que encuentra en las zonas húmedas y en los charcos donde habita.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/008-culebra-de-penarol-main.png",
+    "category": "animalia",
+    "orden": "Squamata",
+    "familia": "Dipsadidae",
+    "género": "Liophis",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/008-culebra-de-penarol-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/008-culebra-de-penarol-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos-y-diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/abundante.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "008 - Reptiles",
+    "reino-2": "Reino animal"
+}

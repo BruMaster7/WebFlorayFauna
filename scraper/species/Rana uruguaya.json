@@ -1,0 +1,19 @@
+{
+    "name": "Rana uruguaya",
+    "cientific_name": "Scinax uruguayus",
+    "description": "La rana uruguaya tiene una coloración dorsal beige, con oscuras manchas marrones agrupadas en hileras. El vientre es blanquecino, la cabeza es de color crema y las puntas de los dedos son anaranjadas. Mide 2 o 3 cm de longitud y se alimenta de pequeños artrópodos. Se encuentra frecuentemente sobre hojas de caraguatá y sobre ramas de árboles.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/020-rana-uruguaya-main.png",
+    "category": "animalia",
+    "orden": "Anura",
+    "familia": "Hylidae",
+    "género": "Scinax",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/020-rana-uruguaya-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/020-rana-uruguaya-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "020 - Anfibios",
+    "reino-2": "Reino animal"
+}

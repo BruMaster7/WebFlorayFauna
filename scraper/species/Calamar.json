@@ -1,0 +1,17 @@
+{
+    "name": "Calamar",
+    "cientific_name": "Illex argentinus",
+    "description": "El calamar tiene cuerpo alargado, cilíndrico, generalmente de color marrón. En un extremo tiene 2 aletas y en el otro se encuentra la cabeza con los tentáculos. Llega a medir 28 cm de largo. Se alimenta de peces y cefalópodos. Habita en la columna de agua oceánica y migra a diferentes profundidades para alimentarse y depositar los huevos.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/moluscos/004-calamar-main.png",
+    "category": "animalia",
+    "orden": "Oegopsida",
+    "familia": "Ommastrephidae",
+    "género": "Ilex",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/moluscos/004-calamar-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/moluscos/004-calamar-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "004 - Moluscos",
+    "reino-2": "Reino animal"
+}

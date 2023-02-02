@@ -1,0 +1,18 @@
+{
+    "name": "Grillo",
+    "cientific_name": "Acheta domestica",
+    "description": "El cuerpo del grillo es de color marrón. La cabeza es robusta y presenta piezas bucales masticadoras, ojos compuestos, ocelos y un par de antenas. El abdomen es alargado, dividido en 11 segmentos con 2 apéndices (cercos terminales). Los primeros pares de patas son caminadores y el último está adaptado para el salto. Mide 2 cm de largo. Es omnívoro y habita en jardines.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/insectos/001-grillo-main.png",
+    "category": "animalia",
+    "orden": "Orthoptera",
+    "familia": "Gryllidae",
+    "género": "Acheta",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/insectos/001-grillo-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/insectos/001-grillo-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/exoticos.jpg"
+    ],
+    "reino": "001 - Insectos",
+    "reino-2": "Reino animal"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Cabeza amarga",
+    "cientific_name": "Crenicichla Celidochilus",
+    "description": "El pez cabeza amarga es de tamaño mediano. Los adultos llegan a medir 30 cm de largo. Su cuerpo es fino, alargado y cilíndrico. En la boca tiene mandíbulas con poderosos dientes. Se alimenta de presas vivas como lombrices, gusanos, renacuajos, insectos acuáticos y peces. Vive en ríos y lagunas de aguas tranquilas.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/004-cabeza-amarga-main.png",
+    "category": "animalia",
+    "orden": "Perciformes",
+    "familia": "Cichlidae",
+    "género": "Crenicichla",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/004-cabeza-amarga-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/004-cabeza-amarga-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "004 - Peces",
+    "reino-2": "Reino animal"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Castañeta rayada",
+    "cientific_name": "Australoheros facetus",
+    "description": "La castañeta rayada es un pez de color amarillo claro a verde oliva, con rayas oscuras que pueden variar según la edad y la alimentación. Su cuerpo es ovalado y llega a medir 30 cm de largo. Se alimenta de larvas de insectos, crías de peces y gusanos, algas y plantas acuáticas que obtiene en los ríos y lagunas donde habita.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/001-castaneta-rayada-main.png",
+    "category": "animalia",
+    "orden": "Perciformes",
+    "familia": "Cichlidae",
+    "género": "Australoheros",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/001-castaneta-rayada-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/001-castaneta-rayada-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "001 - Peces",
+    "reino-2": "Reino animal"
+}

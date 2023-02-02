@@ -1,0 +1,20 @@
+{
+    "name": "Culebra verde esmeralda",
+    "cientific_name": "Philodryas aestiva",
+    "description": "La culebra verde esmeralda es una serpiente muy conocida en Uruguay. Su cuerpo es delgado, de color verde intenso y tiene el vientre de color verde pálido. A cada lado de la cabeza presenta una línea negra que atraviesa los ojos. Mide 1 m de largo. Vive camuflada entre la hierba y ramas de arbustos y de árboles. Se alimenta de ranas, lagartijas, ratones y aves pequeñas.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/013-culebra-verde-esmeralda-main.png",
+    "category": "animalia",
+    "orden": "Squamata",
+    "familia": "Dipsadidae",
+    "género": "Philodryas",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/013-culebra-verde-esmeralda-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/013-culebra-verde-esmeralda-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/abundante.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "013 - Reptiles",
+    "reino-2": "Reino animal"
+}

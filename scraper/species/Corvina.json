@@ -1,0 +1,17 @@
+{
+    "name": "Corvina",
+    "cientific_name": "Micropogonias furnieri",
+    "description": "La corvina es un pez de color plateado en el dorso y dorado en el vientre. Tiene el cuerpo cubierto por escamas grandes y fuertes. Llega a medir de 70 cm de largo y su tamaño promedio en el Río de la Plata es de 40 cm. Para comunicarse emite un sonido similar a un ronquido y por eso también se conoce con el nombre de roncadera.   ",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/010-corvina-main.png",
+    "category": "animalia",
+    "orden": "Perciformes",
+    "familia": "Sciaenidae",
+    "género": "Micropogonias",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/010-corvina-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/010-corvina-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "010 - Peces",
+    "reino-2": "Reino animal"
+}

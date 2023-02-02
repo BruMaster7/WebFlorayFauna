@@ -1,0 +1,19 @@
+{
+    "name": "Rana de zarzal    ",
+    "cientific_name": "Hypsiboas pulchellus",
+    "description": "La rana de zarzal tiene una coloración variable. Hay ejemplares de color verde, otros marrones y otros canela, con manchas marrones. El macho tiene en la garganta un saco vocal de color amarillo. Esta rana mide entre 4 y 5 cm de longitud. Se alimenta de moscas, arañas y mosquitos. Vive en praderas, bañados y en zonas urbanas.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/005-rana-de-zarzal-main.png",
+    "category": "animalia",
+    "orden": "Anura",
+    "familia": "Hylidae",
+    "género": "Hypsiboas ",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/005-rana-de-zarzal-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/005-rana-de-zarzal-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos-y-diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "005 - Anfibios",
+    "reino-2": "Reino animal"
+}

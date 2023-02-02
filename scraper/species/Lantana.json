@@ -1,0 +1,17 @@
+{
+    "name": "Lantana",
+    "cientific_name": "Lantana fucata",
+    "description": "La lantana es un arbusto que llega a medir 1 m de altura. Es muy ramificado desde la base y sus ramillas son débiles y pubescentes (con pelos). Las hojas son opuestas, plegadas ligeramente desde su nervio medio y de formas más o menos elípticas. La lantana es usada en medicina popular y es apreciada para el diseño de jardines.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/014-lantana-main.png",
+    "category": "plantae",
+    "orden": "Lamiales",
+    "familia": "Verbenaceae",
+    "género": "Lantana",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/014-lantana-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/014-lantana-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "014 - Reino vegetal",
+    "reino-2": ""
+}

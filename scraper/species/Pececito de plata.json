@@ -1,0 +1,18 @@
+{
+    "name": "Pececito de plata",
+    "cientific_name": "Lepisma saccharina",
+    "description": "El pececito de plata presenta el cuerpo alargado, recubierto de escamas plateadas, y no tiene alas. En la cabeza tiene un par de antenas largas y delgadas. En el extremo del abdomen tiene tres cerdas (como si fueran tres colas). Llega a medir de 12 mm de largo. Permanece oculto y pocas veces se lo puede ver. ",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/insectos/006-pececito-de-plata-main.png",
+    "category": "animalia",
+    "orden": "Thysanura (Zygentoma)",
+    "familia": "Lepismatidae",
+    "género": "Lepisma",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/insectos/006-pececito-de-plata-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/insectos/006-pececito-de-plata-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "006 - Insectos",
+    "reino-2": "Reino animal"
+}

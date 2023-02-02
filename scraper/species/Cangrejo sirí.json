@@ -1,0 +1,17 @@
+{
+    "name": "Cangrejo sirí",
+    "cientific_name": "Callinectes sapidus",
+    "description": "El cangrejo sirí o de pinzas azules es un crustáceo decápodo de gran tamaño. El caparazón tiene forma de elipse con puntas y es de color oscuro, mientras que sus patas se caracterizan por una tonalidad azul. Se alimenta principalmente de moluscos bivalvos y de carroña. Habita en ambientes marinos y estuarinos.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/crustaceos/003-cangrejo-siri-main.png",
+    "category": "animalia",
+    "orden": "Decapoda",
+    "familia": "Portunudae",
+    "género": "Callinectes",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/crustaceos/003-cangrejo-siri-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/crustaceos/003-cangrejo-siri-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "003 - Crustáceos",
+    "reino-2": "Reino animal"
+}

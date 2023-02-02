@@ -1,0 +1,19 @@
+{
+    "name": "Rana de cuatro ojos",
+    "cientific_name": "Physalaemus biligonigerus ",
+    "description": "La rana de cuatro ojos tiene una coloración dorsal variable. Hay ejemplares de color verde, castaño claro, con reticulados o bandas oscuras. El vientre es de color blanco. Llega a medir 4 cm de longitud. Se alimenta de insectos y vive en zonas de bañado y en costas arenosas.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/013-rana-de-cuatro-ojos-main.png",
+    "category": "animalia",
+    "orden": "Anura",
+    "familia": "Leiuperidae",
+    "género": "Physalaemus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/013-rana-de-cuatro-ojos-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/013-rana-de-cuatro-ojos-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "013 - Anfibios",
+    "reino-2": "Reino animal"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Víbora ciega de Darwin ",
+    "cientific_name": "Amphisbaena darwinii darwinii",
+    "description": "La víbora ciega de Darwin tiene el cuerpo cubierto por escamas cuadradas que forman anillos de color castaño, gris y rosado oscuro en el dorso. El vientre es de color rosado pálido. Puede medir entre 7 y 29 cm de largo. Se alimenta de pequeños invertebrados y habita en galerías bajo la tierra.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/001-vibora-ciega-de-darwin-main.png",
+    "category": "animalia",
+    "orden": "Squamata",
+    "familia": "Amphisbaenidae",
+    "género": "Amphisbaena",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/001-vibora-ciega-de-darwin-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/001-vibora-ciega-de-darwin-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/abundante.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "001 - Reptiles",
+    "reino-2": "Reino animal"
+}

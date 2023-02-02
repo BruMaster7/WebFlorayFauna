@@ -1,0 +1,19 @@
+{
+    "name": "Escuerzo chico   ",
+    "cientific_name": "Odontophrynus americanus",
+    "description": "El escuerzo chico presenta una coloración dorsal marrón amarillenta, con manchas de tono castaño oscuro y con una línea vertebral clara. En la superficie tiene pequeñas glándulas de color rojo. Mide entre 3 y 5,5 cm. Se alimenta de pequeños moluscos y de diversos insectos. Habita en ambientes serranos, de pradera y costeros.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/011-escuerzo-chico-main.png",
+    "category": "animalia",
+    "orden": "Anura",
+    "familia": "Cycloramphidae",
+    "género": "Odontophrynus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/011-escuerzo-chico-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/011-escuerzo-chico-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "011 - Anfibios",
+    "reino-2": "Reino animal"
+}

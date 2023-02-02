@@ -1,0 +1,17 @@
+{
+    "name": "Ceibo",
+    "cientific_name": "Erythrina crista-galli",
+    "description": "El ceibo es un árbol de follaje caduco, que en ocasiones puede crecer hasta medir 12 m de altura. Tiene un tronco de apariencia rugosa en el que se destacan fuertes aguijones. Su madera es blanda y esponjosa. Tiene hojas compuestas, divididas en 3 láminas o folíolos, de formas elípticas y de color verde.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/010-ceibo-main.png",
+    "category": "plantae",
+    "orden": "Fabales",
+    "familia": "Fabaceae",
+    "género": "Erytrhina",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/010-ceibo-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/010-ceibo-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "010 - Reino vegetal",
+    "reino-2": ""
+}

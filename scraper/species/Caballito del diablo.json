@@ -1,0 +1,18 @@
+{
+    "name": "Caballito del diablo",
+    "cientific_name": "Oxyagrion sp.",
+    "description": "El caballito del diablo es un insecto que presenta el abdomen alargado, delgado y recto. En el macho se puede observar un segmento celeste en el extremo. La cabeza es alargada hacia los lados y tiene ojos grandes, bien desarrollados, ubicados en los extremos. Los adultos habitan en pastizales próximos a cursos de agua. ",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/insectos/007-caballito-del-diablo-main.png",
+    "category": "animalia",
+    "orden": "Odonata",
+    "familia": "Coenagrinidae",
+    "género": "Oxyagrion",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/insectos/007-caballito-del-diablo-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/insectos/007-caballito-del-diablo-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "007 - Insectos",
+    "reino-2": "Reino animal"
+}

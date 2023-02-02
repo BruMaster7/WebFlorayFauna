@@ -1,0 +1,20 @@
+{
+    "name": "Tortuga cabezona",
+    "cientific_name": "Caretta caretta",
+    "description": "Es una tortuga marina. Solo las hembras llegan a tierra para poner sus huevos. Su cabeza es relativamente grande y esa característica da origen a su nombre común. Las patas delanteras y traseras están modificadas para nadar y parecen aletas. Los machos son más grandes que las hembras. Se alimenta de crustáceos, moluscos y peces.  ",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/004-tortuga-cabezona-main.png",
+    "category": "animalia",
+    "orden": "Testudines",
+    "familia": "Cheloniidae",
+    "género": "Caretta",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/004-tortuga-cabezona-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/004-tortuga-cabezona-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/escaso.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/en-peligro-de-extincion.jpg"
+    ],
+    "reino": "004 - Reptiles",
+    "reino-2": "Reino animal"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Avispa San Jorge",
+    "cientific_name": "Pepsis cupripennis",
+    "description": "La avispa San Jorge es un insecto de color azul metálico, con alas de color naranja. El tamaño varía entre el macho y la hembra, al igual que la forma de sus antenas. La hembra es más robusta y el macho es más pequeño. Es solitaria y depreda exclusivamente tarántulas, principalmente las tarántulas de carretera.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/insectos/008-avispa-san-jorge-main.png",
+    "category": "animalia",
+    "orden": "Hymenoptera",
+    "familia": "Pompilidae",
+    "género": "Pepsis",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/insectos/008-avispa-san-jorge-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/insectos/008-avispa-san-jorge-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "008 - Insectos",
+    "reino-2": "Reino animal"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Rana piadora",
+    "cientific_name": "Leptodactylus latinasus",
+    "description": "La rana piadora tiene una coloración castaña a grisácea con manchas oscuras en el dorso, donde sobresale una mancha roja o naranja (en el centro). Mide entre 3 y 4 cm y se alimenta de moluscos y de pequeños artrópodos. Vive en zonas serranas y de pradera, bajo piedras o troncos.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/007-rana-piadora-main.png",
+    "category": "animalia",
+    "orden": "Anura",
+    "familia": "Leptodactylidae",
+    "género": "Leptodactylus ",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/007-rana-piadora-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/007-rana-piadora-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "007 - Anfibios",
+    "reino-2": "Reino animal"
+}

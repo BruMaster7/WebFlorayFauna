@@ -1,0 +1,20 @@
+{
+    "name": "Martín pescador grande",
+    "cientific_name": "Megaceryle toquata",
+    "description": "El martín pescador grande posee un largo pico, negro y gris. La cabeza, dorso y alas son de color azul grisáceo, la garganta es blanca y el pecho es colorado. Las hembras tienen una banda azul grisácea en el pecho. Mide hasta 40 cm. Habita en ambientes acuáticos, donde se zambulle para capturar peces que luego come sobre una rama.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/015-martin-pescador-grande-main.png",
+    "category": "animalia",
+    "orden": "Coraciformes",
+    "familia": "Alcedinidae",
+    "género": "Megaceryle",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/015-martin-pescador-grande-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/015-martin-pescador-grande-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/comun.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "015 - Aves",
+    "reino-2": "Reino animal"
+}

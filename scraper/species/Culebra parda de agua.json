@@ -1,0 +1,20 @@
+{
+    "name": "Culebra parda de agua",
+    "cientific_name": "Liophis semiaureus",
+    "description": "La culebra parda de agua es una serpiente de cuerpo robusto. Cuando es adulta, la coloración dorsal es castaña oscura y su vientre es amarillento con manchas negras. Las crías presentan tonos oliva y manchas oscuras. Llega a medir aproximadamente 1 m de longitud. Se alimenta de peces y anfibios que captura en lugares húmedos, donde habita. ",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/009-culebra-parda-de-agua-main.png",
+    "category": "animalia",
+    "orden": "Squamata",
+    "familia": "Dipsadidae",
+    "género": "Liophis",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/009-culebra-parda-de-agua-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/009-culebra-parda-de-agua-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos-y-diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/abundante.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "009 - Reptiles",
+    "reino-2": "Reino animal"
+}

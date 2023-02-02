@@ -1,0 +1,19 @@
+{
+    "name": "Araña Pollito",
+    "cientific_name": "Grammostola anthracina",
+    "description": "La araña pollito es un arácnido de color negro o marrón. Tiene el cuerpo cubierto por pelos que, en la región ventral de las patas, son de color rojo. Posee 8 ojos agrupados en el área ocular. Llega a medir 5 cm de largo, sin contar las patas. El macho es de menor tamaño que la hembra y sus patas son más largas. Vive en zonas serranas y se alimenta de insectos.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aracnidos/004-arana-pollito-main.png",
+    "category": "animalia",
+    "orden": "Araneae",
+    "familia": "Theraphosidae",
+    "género": "Grammostola",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aracnidos/004-arana-pollito-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aracnidos/004-arana-pollito-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/comun.jpg"
+    ],
+    "reino": "004 - Arácnidos",
+    "reino-2": "Reino animal"
+}

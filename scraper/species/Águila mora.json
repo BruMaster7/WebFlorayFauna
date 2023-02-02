@@ -1,0 +1,20 @@
+{
+    "name": "Águila mora",
+    "cientific_name": "Geranoaetus melanoleucus",
+    "description": "El águila mora es una de las más grandes de Sudamérica. Su plumaje es azul grisáceo, las alas presentan franjas negras y blancas, y el vientre es blanco. Posee fuertes garras y el pico tiene forma de gancho. Las alas miden hasta 2 m de un extremo al otro. Puede pesar más de 3 kg. Se alimenta de pequeños mamíferos y aves. Habita en praderas y campos cultivados.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/011-aguila-mora-main.png",
+    "category": "animalia",
+    "orden": "Falconiformes",
+    "familia": "Accipitridae",
+    "género": "Geranoaetus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/011-aguila-mora-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/011-aguila-mora-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/comun.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "011 - Aves",
+    "reino-2": "Reino animal"
+}

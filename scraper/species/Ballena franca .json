@@ -1,0 +1,18 @@
+{
+    "name": "Ballena franca ",
+    "cientific_name": "Eubalaena australis",
+    "description": "La ballena franca tiene el cuerpo robusto, carece de aleta dorsal y las pectorales tienen forma de pala. Es un animal de color negruzco, con manchas blancas en el vientre y una serie de callosidades en la cabeza y en la mandíbula. Llega a medir 10 m de largo y pesa hasta 45 toneladas. Se alimenta de plancton. Sus hábitos son preferentemente costeros.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/010-ballena-franca-main.png",
+    "category": "animalia",
+    "orden": "Cetacea",
+    "familia": "Balaenidae",
+    "género": "Eubalaena",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/010-ballena-franca-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/010-ballena-franca-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "010 - Mamíferos",
+    "reino-2": "Reino animal"
+}

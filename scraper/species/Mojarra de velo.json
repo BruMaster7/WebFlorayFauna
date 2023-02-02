@@ -1,0 +1,18 @@
+{
+    "name": "Mojarra de velo",
+    "cientific_name": "Pseudocorynopoma doriae",
+    "description": "La mojarra de velo llega a medir 8 cm de largo. Es un pez de color plateado con franjas oscuras a los lados. Su cuerpo es angosto y el pecho sobresale. La boca es pequeña y se encuentra orientada hacia arriba. Se alimenta de larvas acuáticas, de insectos y de pequeños invertebrados. Habita en ríos y arroyos de Uruguay.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/016-mojarra-de-velo-main.png",
+    "category": "animalia",
+    "orden": "Characiformes",
+    "familia": "Characidae",
+    "género": "Pseudocorynopoma",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/016-mojarra-de-velo-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/016-mojarra-de-velo-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "016 - Peces",
+    "reino-2": "Reino animal"
+}

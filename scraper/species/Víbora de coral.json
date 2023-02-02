@@ -1,0 +1,21 @@
+{
+    "name": "Víbora de coral",
+    "cientific_name": "Micrurus altirostris",
+    "description": "La víbora de coral es el único representante de esta familia en Uruguay. El cuerpo es cilíndrico y su coloración y diseño la hacen inconfundible: tiene anillos completos alrededor del cuerpo de color rojo, negro y amarillo. Llega a medir 80 cm de largo. Es un animal ponzoñoso, pero poco agresivo. Se alimenta de víboras ciegas, lagartijas y serpientes.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/011-vibora-de-coral-main.png",
+    "category": "animalia",
+    "orden": "Squamata",
+    "familia": "Elapidae",
+    "género": "Micrurus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/011-vibora-de-coral-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/011-vibora-de-coral-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos-y-diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/comun.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/peligroso.jpg"
+    ],
+    "reino": "011 - Reptiles",
+    "reino-2": "Reino animal"
+}

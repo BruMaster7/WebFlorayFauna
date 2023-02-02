@@ -1,0 +1,20 @@
+{
+    "name": "Cisne de cuello negro",
+    "cientific_name": "Cygnus melanocoryphus",
+    "description": "El cisne de cuello negro pertenece a la familia de los anátidos. Las alas son blancas, como el cuerpo. La cabeza y el cuello son negros, y el pico es gris con carnícula roja. Este cisne forma pareja de por vida y ambos cuidan de las crías. Vive en lagunas y lagos de agua dulce o salobre. Se alimenta de plantas acuáticas y come pequeños insectos. ",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/007-cisne-de-cuello-negro-main.png",
+    "category": "animalia",
+    "orden": "Anseriformes",
+    "familia": "Anatidae",
+    "género": "Cygnus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/007-cisne-de-cuello-negro-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/007-cisne-de-cuello-negro-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/comun.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "007 - Aves",
+    "reino-2": "Reino animal"
+}

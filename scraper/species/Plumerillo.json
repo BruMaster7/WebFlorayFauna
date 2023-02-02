@@ -1,0 +1,17 @@
+{
+    "name": "Plumerillo",
+    "cientific_name": "Calliandra tweedii Benth",
+    "description": "El plumerillo es un arbusto perenne que puede alcanzar entre 2 y 4 m de altura. Es muy ramificado y su madera es dura y pesada. Florece en primavera y fructifica rápidamente en verano. Se lo conoce también con el nombre de socará. Se cultiva con frecuencia en parques y jardines de todo Uruguay por su floración y por su valor ornamental.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/005-plumerillo-main.png",
+    "category": "plantae",
+    "orden": "Fabales",
+    "familia": "Fabaceae",
+    "género": "Calliandra",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/005-plumerillo-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/005-plumerillo-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "005 - Reino vegetal",
+    "reino-2": ""
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Vieja de agua espinosa",
+    "cientific_name": "Megalancistrus parananus",
+    "description": "La vieja de agua espinosa presenta pequeñas manchas oscuras sobre un fondo crema. Su cuerpo está cubierto de placas duras y espinas. Es la especie más grande de este grupo y llega a medir 70 cm. Puede vivir más de 20 años. Durante la noche sale en busca de vegetales acuáticos para alimentarse.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/009-vieja-de-agua-espinosa-main.png",
+    "category": "animalia",
+    "orden": "Siluriformes",
+    "familia": "Loricaridae",
+    "género": "Megalancistrus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/009-vieja-de-agua-espinosa-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/009-vieja-de-agua-espinosa-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "009 - Peces",
+    "reino-2": "Reino animal"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Piraña",
+    "cientific_name": "Serrasalmus maculatus",
+    "description": "La piraña es un pez de forma redondeada y de tamaño mediano. Llega a medir 30 cm de largo. Es de color plateado con reflejos verdosos y tiene manchas oscuras en el dorso. El vientre y las aletas inferiores son amarillentas. Es una especie carnívora y habita en ríos.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/017-pirana-main.png",
+    "category": "animalia",
+    "orden": "Characiformes",
+    "familia": "Serrasalmidae",
+    "género": "Serrasalmus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/017-pirana-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/017-pirana-location.png",
+    "images": [],
+    "reino": "017 - Peces",
+    "reino-2": "Reino animal"
+}

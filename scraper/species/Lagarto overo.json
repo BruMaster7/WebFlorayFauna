@@ -1,0 +1,20 @@
+{
+    "name": "Lagarto overo",
+    "cientific_name": "Tupinambis merinae",
+    "description": "El lagarto overo es el lagarto más grande de Uruguay. Es robusto, tiene extremidades fuertes y cola larga. El adulto es de color oscuro con manchas blancas. Las crías, al nacer, son de color verde brillante. Llega a medir 1,30 m de largo. Se alimenta de frutos y de animales. Vive en cuevas, huecos naturales o madrigueras abandonadas por otros animales.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/019-lagarto-overo-main.png",
+    "category": "animalia",
+    "orden": "Squamata",
+    "familia": "Teiidae",
+    "género": "Tupinambis",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/019-lagarto-overo-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/019-lagarto-overo-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/abundante.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "019 - Reptiles",
+    "reino-2": "Reino animal"
+}

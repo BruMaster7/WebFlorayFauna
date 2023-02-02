@@ -1,0 +1,18 @@
+{
+    "name": "Caracol de tierra ",
+    "cientific_name": "Megalobulimus sp.",
+    "description": "El caracol de tierra del género Megalobulimus es un molusco gasterópodo terrestre, de caparazón globoso y de color blanco a marrón claro, con un borde grueso en su abertura, de color rosado. Llega a medir 10 cm. Se alimenta de hojas y de materia orgánica. Habita en zonas de montes y quebradas.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/moluscos/005-caracol-de-tierra-main.png",
+    "category": "animalia",
+    "orden": "No determinado",
+    "familia": "Strophocheilidae",
+    "género": "Megalobulimus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/moluscos/005-caracol-de-tierra-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/moluscos/005-caracol-de-tierra-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos-y-diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "005 - Moluscos",
+    "reino-2": "Reino animal"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Murciélago cola de ratón",
+    "cientific_name": "Tadarida brasiliensis",
+    "description": "El murciélago cola de ratón es una de las especies más comunes en las ciudades, donde forma colonias de gran cantidad de individuos. Presenta el pelaje de color marrón. Llega a medir 22 cm de envergadura y a pesar 19 g. Es una especie de hábitos nocturnos: es en la noche cuando se alimenta, capturando insectos.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/018-murcielago-cola-de-raton-main.png",
+    "category": "animalia",
+    "orden": "Chiroptera",
+    "familia": "Molossidae",
+    "género": "Tadarida",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/018-murcielago-cola-de-raton-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/018-murcielago-cola-de-raton-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "018 - Mamíferos",
+    "reino-2": "Reino animal"
+}

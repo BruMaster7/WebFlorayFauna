@@ -1,0 +1,20 @@
+{
+    "name": "Parejera",
+    "cientific_name": "Philodryas patagoniensis",
+    "description": "La parejera presenta un aspecto robusto. La cabeza es grande y está diferenciada del cuerpo. Su coloración dorsal es verde o castaña grisácea y el vientre es amarillento. Los juveniles presentan manchas oscuras. Llega a medir 1,5 m de largo. Se alimenta de vertebrados e invertebrados que encuentra en los lugares donde habita.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/014-parejera-main.png",
+    "category": "animalia",
+    "orden": "Squamata",
+    "familia": "Dipsadidae",
+    "género": "Philodryas",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/014-parejera-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/014-parejera-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos-y-diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/abundante.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "014 - Reptiles",
+    "reino-2": "Reino animal"
+}

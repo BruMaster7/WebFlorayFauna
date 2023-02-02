@@ -1,0 +1,20 @@
+{
+    "name": "Culebra hocico de chancho",
+    "cientific_name": "Xenodon dorbignyi",
+    "description": "La culebra hocico de chancho presenta una coloración dorsal amarillenta con manchas negras y rojas. Su vientre es rojo y negro, y en la cabeza tiene manchas negras en forma de \"v\". Su cuerpo es grueso, la cabeza no está diferenciada y la cola es corta. Mide aproximadamente 80 cm de largo. Se alimenta de anfibios y habita en arenales, praderas y pedregales.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/020-culebra-hocico-de-chancho-main.png",
+    "category": "animalia",
+    "orden": "Squamata",
+    "familia": "Dipsadidae",
+    "género": "Xenodon",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/020-culebra-hocico-de-chancho-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/020-culebra-hocico-de-chancho-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/comun.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "020 - Reptiles",
+    "reino-2": "Reino animal"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Rayador",
+    "cientific_name": "Rhynchops niger",
+    "description": "El rayador tiene plumas negras en la cabeza, las alas y el dorso. El cuello, el pecho y el vientre son de color blanco. El pico es rojo, con la punta negra, y la mandíbula inferior es más larga. Las patas son cortas, rojas y tienen la punta negra. El macho es más grande que la hembra y llega a medir 46 cm. Se alimenta de peces y crustáceos. Habita cerca de cuerpos de agua dulce y salobre.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/019-rayador-main.png",
+    "category": "animalia",
+    "orden": "Charadriiformes",
+    "familia": "Rhynchopidae",
+    "género": "Rhynchops",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/019-rayador-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/019-rayador-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos-y-diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/comun.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "019 - Aves",
+    "reino-2": "Reino animal"
+}

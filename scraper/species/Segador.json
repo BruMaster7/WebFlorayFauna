@@ -1,0 +1,19 @@
+{
+    "name": "Segador",
+    "cientific_name": "Acanthopachylus aculeatus",
+    "description": "El segador es un arácnido de cuerpo compacto y robusto. Tiene patas muy largas. Es de color marrón oscuro con dos líneas amarillas a ambos lados del cuerpo. En la cabeza presenta un par de ojos. Mide 20 mm de largo sin contar las patas. Se alimenta de restos vegetales o animales y habita en lugares húmedos, bajo piedras, troncos y hojarasca.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aracnidos/001-segador-main.png",
+    "category": "animalia",
+    "orden": "Opilion",
+    "familia": "Gonyleptydae",
+    "género": "Acanthopachylus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aracnidos/001-segador-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aracnidos/001-segador-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/abundante.jpg"
+    ],
+    "reino": "001 - Arácnidos",
+    "reino-2": "Reino animal"
+}

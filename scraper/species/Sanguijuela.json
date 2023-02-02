@@ -1,0 +1,17 @@
+{
+    "name": "Sanguijuela",
+    "cientific_name": "Hirudo medicinalis",
+    "description": "La sanguijuela tiene el cuerpo alargado y dividido en segmentos. Puede medir de 1 a 30 cm de largo. Presenta un número fijo de segmentos (32 o 34). Carece de apéndices y ambos extremos del cuerpo están modificados en ventosas. Este género se encuentra emparentado con las lombrices de tierra y marinas.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anelidos/002-sanguijuela-main.png",
+    "category": "animalia",
+    "orden": "Arhynchobdellidae",
+    "familia": "Gnathobdellae",
+    "género": "Hirudo",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anelidos/002-sanguijuela-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anelidos/002-sanguijuela-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "002 - Anélidos",
+    "reino-2": "Reino animal"
+}

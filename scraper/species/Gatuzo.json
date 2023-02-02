@@ -1,0 +1,19 @@
+{
+    "name": "Gatuzo",
+    "cientific_name": "Mustelus schmitti ",
+    "description": "El gatuzo es un pequeño tiburón, de color gris en el dorso y blanco en el vientre, que tiene dos aletas dorsales. Llega a medir 1 m de largo y a pesar 2 kg. La hembra suele ser de mayor tamaño que el macho. Se alimenta de invertebrados y los ejemplares más grandes también consumen peces. Habita en zonas costeras, donde se encuentra durante todo el año. ",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/012-gatuzo-main.png",
+    "category": "animalia",
+    "orden": "Carcharhiniformes",
+    "familia": "Triakidae",
+    "género": "Mustelus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/012-gatuzo-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/012-gatuzo-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos-y-diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/en-peligro-de-extincion.jpg"
+    ],
+    "reino": "012 - Peces",
+    "reino-2": "Reino animal"
+}

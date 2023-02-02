@@ -1,0 +1,21 @@
+{
+    "name": "Víbora de cascabel",
+    "cientific_name": "Crotalus durissus terrificus",
+    "description": "La víbora de cascabel es una serpiente de color castaño grisáceo, con rombos oscuros de bordes blancos o amarillos en el dorso. En el extremo de la cola presenta una forma similar a un cascabel. Las crías miden 30 cm de largo y el adulto llega a medir 1,30 m. Se alimenta de roedores y de aves. Habita en serranías y quebradas, al norte de Uruguay.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/007-vibora-de-cascabel-main.png",
+    "category": "animalia",
+    "orden": "Squamata",
+    "familia": "Viperidae",
+    "género": "Crotalus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/007-vibora-de-cascabel-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/007-vibora-de-cascabel-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos-y-diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/raro.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/en-peligro-de-extincion.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/peligroso.jpg"
+    ],
+    "reino": "007 - Reptiles",
+    "reino-2": "Reino animal"
+}

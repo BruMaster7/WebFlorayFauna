@@ -1,0 +1,19 @@
+{
+    "name": "Rana saltadora",
+    "cientific_name": "Leptodactylus gracilis",
+    "description": "La rana saltadora tiene una coloración dorsal castaña verdosa con 5 líneas longitudinales más claras. El vientre es de color blanco. Mide entre 4 y 5 cm. Se alimenta de insectos como escarabajos, langostas, mariposas y ciempiés. Vive en campos inundables, en pajonales y humedales.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/006-rana-saltadora-main.png",
+    "category": "animalia",
+    "orden": "Anura",
+    "familia": "Leptodactylidae",
+    "género": "Leptodactylus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/006-rana-saltadora-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/006-rana-saltadora-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "006 - Anfibios",
+    "reino-2": "Reino animal"
+}

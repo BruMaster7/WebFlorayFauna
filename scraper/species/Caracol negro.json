@@ -1,0 +1,17 @@
+{
+    "name": "Caracol negro",
+    "cientific_name": "Pachycymbiola brasiliana",
+    "description": "El caracol negro es un molusco gasterópodo. Debe su nombre común a que su caparazón está cubierto por una costra (periostraco) de color oscuro. Puede vivir 20 años y su caparazón llega a medir 20 cm de longitud. En Uruguay es frecuente ver los depósitos de sus huevos en las playas, desde Montevideo hasta Rocha. ",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/moluscos/007-caracol-negro-main.png",
+    "category": "animalia",
+    "orden": "Neogastropoda",
+    "familia": "Volutidae",
+    "género": "Pachycymbiola",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/moluscos/007-caracol-negro-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/moluscos/007-caracol-negro-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "007 - Moluscos",
+    "reino-2": "Reino animal"
+}

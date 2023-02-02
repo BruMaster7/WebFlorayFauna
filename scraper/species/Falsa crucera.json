@@ -1,0 +1,20 @@
+{
+    "name": "Falsa crucera",
+    "cientific_name": "Tomodon ocellatus",
+    "description": "La falsa crucera es una serpiente de color castaño grisáceo. Tiene un diseño dorsal compuesto por una línea amarillenta con manchas oscuras y semicirculares a cada lado. El vientre es amarillento con manchas negras. Llega a medir 54 cm de largo. Se alimenta de babosas. Habita en praderas, pastizales y cerca de cursos de agua.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/017-falsa-crucera-main.png",
+    "category": "animalia",
+    "orden": "Squamata",
+    "familia": "Dipsadidae",
+    "género": "Tomodon",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/017-falsa-crucera-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/017-falsa-crucera-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos-y-diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/peligroso.jpg"
+    ],
+    "reino": "017 - Reptiles",
+    "reino-2": "Reino animal"
+}

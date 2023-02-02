@@ -1,0 +1,17 @@
+{
+    "name": "Piojo de las piedras",
+    "cientific_name": "Ligia exotica",
+    "description": "La Ligia exotica es un crustáceo isópodo, al igual que los bichos de la humedad, de color gris amarronado, que puede crecer hasta los 3 cm. Es uno de los parientes más cercanos de los cangrejos comunes y se lo conoce como piojo de las piedras. Se encuentra distribuido en la mayor parte de las regiones subtropicales y templadas del planeta.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/crustaceos/005-piojo-de-las-piedras-main.png",
+    "category": "animalia",
+    "orden": "Isopoda",
+    "familia": "Ligiidae",
+    "género": "Ligia",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/crustaceos/005-piojo-de-las-piedras-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/crustaceos/005-piojo-de-las-piedras-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/exoticos.jpg"
+    ],
+    "reino": "005 - Crustáceos",
+    "reino-2": "Reino animal"
+}

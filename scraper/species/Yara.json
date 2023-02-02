@@ -1,0 +1,21 @@
+{
+    "name": "Yara",
+    "cientific_name": "Bothropoides pubescens",
+    "description": "La yara o yarará es una serpiente robusta. Su cuerpo presenta un diseño con trapecios. La coloración dorsal es en tonos de gris y el vientre es amarillento con manchas oscuras. Mide hasta 1 m de largo. Es una especie ponzoñosa y su mordedura puede causar la muerte. Se alimenta de vertebrados e invertebrados y habita en sierras pedregosas y en praderas rocosas.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/002-yara-main.png",
+    "category": "animalia",
+    "orden": "Squamata",
+    "familia": "Viperidae",
+    "género": "Bothropoides",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/002-yara-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/002-yara-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos-y-diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/comun.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/peligroso.jpg"
+    ],
+    "reino": "002 - Reptiles",
+    "reino-2": "Reino animal"
+}

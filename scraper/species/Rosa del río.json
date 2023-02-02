@@ -1,0 +1,17 @@
+{
+    "name": "Rosa del río",
+    "cientific_name": "Hibiscus striatus",
+    "description": "La rosa del río es un arbusto perenne que se ramifica desde la base y puede alcanzar los 3 m de altura. Está provisto de aguijones. Sus hojas, simples, pueden presentar formas diferentes. Sus flores son solitarias, grandes y rosadas, con venas más oscuras y muy vistosas. La floración se produce en primavera y verano (aunque puede extenderse hasta el otoño).",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/012-rosa-del-rio-main.png",
+    "category": "plantae",
+    "orden": "Malvales",
+    "familia": "Malvaceae",
+    "género": "Hibiscus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/012-rosa-del-rio-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/012-rosa-del-rio-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "012 - Reino vegetal",
+    "reino-2": ""
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Estrella de mar ",
+    "cientific_name": "Asterina stellifera",
+    "description": "La estrella de mar tiene el cuerpo de color gris y brazos cortos, que se extienden desde el centro. Tiene entre 4 y 6 brazos, aunque comúnmente tiene 5. Puede llegar a medir 7 cm de diámetro. Su dieta es carnívora: se alimenta de invertebrados marinos. Habita en costas arenosas y rocosas y se encuentra en profundidades de hasta 50 m.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/equinodermos/002-estrella-de-mar-main.png",
+    "category": "animalia",
+    "orden": "Valvatida",
+    "familia": "Asterinidae",
+    "género": "Asterina",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/equinodermos/002-estrella-de-mar-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/equinodermos/002-estrella-de-mar-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "002 - Equinodermos",
+    "reino-2": "Reino animal"
+}

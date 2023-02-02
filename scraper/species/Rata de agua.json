@@ -1,0 +1,19 @@
+{
+    "name": "Rata de agua",
+    "cientific_name": "Holochilus brasiliensis",
+    "description": "La rata de agua tiene cuerpo robusto, de color rojizo en el dorso y blanco en el vientre. Tiene membranas entre los dedos de las patas posteriores y una cola larga y fuerte. Mide 43 cm y pesa algo más de 450 g. Se alimenta de vegetales y de pequeños animales que obtiene cerca de los cuerpos de agua donde habita.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/011-rata-de-agua-main.png",
+    "category": "animalia",
+    "orden": "Todentia",
+    "familia": "Cricetidae",
+    "género": "Holochilus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/011-rata-de-agua-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/011-rata-de-agua-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "011 - Mamíferos",
+    "reino-2": "Reino animal"
+}

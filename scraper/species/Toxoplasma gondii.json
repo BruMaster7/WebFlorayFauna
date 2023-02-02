@@ -1,0 +1,15 @@
+{
+    "name": "Toxoplasma gondii",
+    "cientific_name": "Toxoplasma gondii",
+    "description": "El Toxoplasma gondii es un protozoario parásito. Presenta diferentes formas según el ciclo de vida en que se encuentre. Es el causante de la enfermedad conocida como toxoplasmosis. Se trata de una enfermedad que generalmente es leve, pero que puede complicarse y volverse fatal, especialmente en gatos y fetos humanos.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-protista/006-toxoplasma-gondii-main.png",
+    "category": "protista",
+    "orden": "Hymenostomatida",
+    "familia": "Ichthyophthiriidae",
+    "género": "Toxoplasma",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-protista/006-toxoplasma-gondii-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-protista/006-toxoplasma-gondii-location.png",
+    "images": [],
+    "reino": "006 - Reino protista",
+    "reino-2": ""
+}

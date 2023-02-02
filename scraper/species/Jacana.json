@@ -1,0 +1,20 @@
+{
+    "name": "Jacana",
+    "cientific_name": "Jacana jacana",
+    "description": "La jacana es un ave que presenta un escudo rojo en la frente, pico amarillo y cabeza negra. El pecho es negro y las alas son de color castaño. Posee dedos y uñas muy largas (de los más largos entre las aves). La hembra llega a medir 23 cm y es más grande que el macho. Esta especie se alimenta de pequeños invertebrados y habita en charcos, lagunas y bañados.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/014-jacana-main.png",
+    "category": "animalia",
+    "orden": "Charadriiformes",
+    "familia": "Jacanidae",
+    "género": "Jacana",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/014-jacana-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/014-jacana-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/abundante.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "014 - Aves",
+    "reino-2": "Reino animal"
+}

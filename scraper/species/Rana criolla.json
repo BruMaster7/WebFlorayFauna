@@ -1,0 +1,19 @@
+{
+    "name": "Rana criolla",
+    "cientific_name": "Leptodactylus latrans",
+    "description": "La rana criolla presenta coloración verde oliva a parda en el dorso. Tiene manchas marrones y pliegues longitudinales. El vientre es blanquecino con pequeñas manchas marrones. Mide entre 10 y 12 cm de largo, pero algunos ejemplares alcanzan los 14 cm. Se alimenta de pequeños invertebrados y habita en charcos cercanos a pajonales y pastizales.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/008-rana-criolla-main.png",
+    "category": "animalia",
+    "orden": "Anura",
+    "familia": "Leptodactylidae",
+    "género": "Leptodactylus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/008-rana-criolla-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/008-rana-criolla-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos-y-diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "008 - Anfibios",
+    "reino-2": "Reino animal"
+}

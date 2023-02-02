@@ -1,0 +1,20 @@
+{
+    "name": "Angelito",
+    "cientific_name": "Squatina guggenheim",
+    "description": "El angelito es un tiburón de cuerpo aplanado. Tiene el dorso de color marrón y el vientre blanco. Sus aletas dorsales parecen alas, lo que le da su nombre común. Llega a medir 1 m de largo. Vive en el fondo marino, donde se camufla para capturar a sus presas con un rápido y sorpresivo movimiento de succión.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/018-angelito-main.png",
+    "category": "animalia",
+    "orden": "Squatiniformes",
+    "familia": "Squatinidae",
+    "género": "Squatina",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/018-angelito-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/018-angelito-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/en-peligro-de-extincion.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/peligroso.jpg"
+    ],
+    "reino": "018 - Peces",
+    "reino-2": "Reino animal"
+}

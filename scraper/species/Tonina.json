@@ -1,0 +1,19 @@
+{
+    "name": "Tonina",
+    "cientific_name": "Tursiops truncatus",
+    "description": "La tonina puede llegar a medir 3 m de longitud y puede pesar hasta 300 kg. Su color general es grisáceo y tiene el vientre más claro. Algunos grupos son costeros y frecuentan ciertas playas estacionalmente. Su dieta se basa en peces y suele consumir las especies más abundantes. Tiene un sistema de comunicación complejo, con gemidos, chillidos y silbidos.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/020-tonina-main.png",
+    "category": "animalia",
+    "orden": "Cetacea",
+    "familia": "Delphinidae",
+    "género": "Tursiops",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/020-tonina-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/020-tonina-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/escaso.jpg"
+    ],
+    "reino": "020 - Mamíferos",
+    "reino-2": "Reino animal"
+}

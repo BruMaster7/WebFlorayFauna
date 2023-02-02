@@ -1,0 +1,19 @@
+{
+    "name": "Flamenco  austral ",
+    "cientific_name": "Phoenicopterus chilensis",
+    "description": "El flamenco austral es un ave muy vistosa de color rosado. Su pico es amarillo pálido, de punta negra, y tiene una forma curvada hacia abajo. Las patas son largas y de color amarillo grisáceo. Se alimenta filtrando pequeños microorganismos con su pico y también come invertebrados. Habita en lagunas salobres, cercanas a la costa marina. ",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/017-flamenco-austral-main.png",
+    "category": "animalia",
+    "orden": "Phoenicopteriformes",
+    "familia": "Phoenicopteridae",
+    "género": "Phoenicopterus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/017-flamenco-austral-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/017-flamenco-austral-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/comun.jpg"
+    ],
+    "reino": "017 - Aves",
+    "reino-2": "Reino animal"
+}

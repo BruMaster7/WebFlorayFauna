@@ -1,0 +1,18 @@
+{
+    "name": "Cucaracha criolla",
+    "cientific_name": "Blaptica dubia",
+    "description": "La cucaracha criolla tiene el cuerpo aplastado, ancho y ovalado. Las ninfas son de color marrón grisáceo y no tienen alas. Los adultos presentan tonalidades anaranjadas y negras. Tiene un aparato bucal masticador, ojos compuestos, ocelos y un par de antenas. Las patas están adaptadas para correr. Llega a medir 4,5 cm de largo. ",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/insectos/004-cucaracha-criolla-main.png",
+    "category": "animalia",
+    "orden": "Blattaria",
+    "familia": "Blatberidae",
+    "género": "Blaptica",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/insectos/004-cucaracha-criolla-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/insectos/004-cucaracha-criolla-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "004 - Insectos",
+    "reino-2": "Reino animal"
+}

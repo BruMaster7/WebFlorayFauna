@@ -1,0 +1,20 @@
+{
+    "name": "Campanita",
+    "cientific_name": "Phrynops hilarii",
+    "description": "La campanita es la tortuga de agua dulce más grande de Uruguay. Su caparazón llega a medir hasta 45 cm de longitud y es de color castaño oliváceo. Su plastrón es de color crema y tiene manchas negras. Se alimenta de insectos, peces, anfibios y pichones de aves acuáticas. Habita en cañadas, arroyos, ríos y lagunas.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/015-campanita-main.png",
+    "category": "animalia",
+    "orden": "Testudines",
+    "familia": "Chelidae",
+    "género": "Phrynops",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/015-campanita-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/015-campanita-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos-y-diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/abundante.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "015 - Reptiles",
+    "reino-2": "Reino animal"
+}

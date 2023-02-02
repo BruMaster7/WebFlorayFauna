@@ -1,0 +1,17 @@
+{
+    "name": "Pico de loro",
+    "cientific_name": "Ephedra tweediana",
+    "description": "El pico de loro es un arbusto perenne muy ramoso. Es de hábito erguido y trepador. Para trepar se apoya en otras plantas y así puede alcanzar más de 5 m de altura. Se le conocen algunas propiedades como planta medicinal.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/008-pico-de-loro-main.png",
+    "category": "plantae",
+    "orden": "Ephedrales",
+    "familia": "Ephedraceae",
+    "género": "Ephedra",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/008-pico-de-loro-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/008-pico-de-loro-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "008 - Reino vegetal",
+    "reino-2": ""
+}

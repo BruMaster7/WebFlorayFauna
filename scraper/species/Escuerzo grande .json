@@ -1,0 +1,19 @@
+{
+    "name": "Escuerzo grande ",
+    "cientific_name": "Ceratophrys ornata",
+    "description": "El escuerzo grande es un anfibio de coloración dorsal verde, con manchas irregulares rojas y amarillas. Tiene una longitud que varía entre los 8 y los 14 cm. Su dieta es variada e incluye otros anfibios. En Uruguay habita en zonas de pastizales arenosos asociados a lagunas y en bañados semipermanentes. ",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/001-escuerzo-grande-main.png",
+    "category": "animalia",
+    "orden": "Anura",
+    "familia": "Ceratophrydae",
+    "género": "Ceratophrys ",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/001-escuerzo-grande-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/001-escuerzo-grande-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/en-peligro-de-extincion.jpg"
+    ],
+    "reino": "001 - Anfibios",
+    "reino-2": "Reino animal"
+}

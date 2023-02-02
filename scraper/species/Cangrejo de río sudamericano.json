@@ -1,0 +1,18 @@
+{
+    "name": "Cangrejo de río sudamericano",
+    "cientific_name": "Aegla sp.",
+    "description": "El cangrejo de río sudamericano es un crustáceo decápodo. Tiene 5 pares de patas y dos pares de antenas en la región anterior del cuerpo. Tiene un esqueleto externo de forma ovalada y llega a medir entre 50 y 60 mm. El macho es de mayor tamaño que la hembra. Su dieta es omnívora. Es principalmente carnívoro y carroñero. Vive en cuerpos de agua dulce.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/crustaceos/001-cangrejo-de-rio-sudamericano-main.png",
+    "category": "animalia",
+    "orden": "Decapoda",
+    "familia": "Aeglidae",
+    "género": "Aegla",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/crustaceos/001-cangrejo-de-rio-sudamericano-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/crustaceos/001-cangrejo-de-rio-sudamericano-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "001 - Crustáceos",
+    "reino-2": "Reino animal"
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Lapacho",
+    "cientific_name": "Handroanthus heptaphyllus",
+    "description": "El lapacho es un árbol de follaje caduco y de amplia copa, que puede medir hasta 15 m de altura. Su tronco es rugoso, de color castaño grisáceo, y sus hojas son compuestas. Florece en primavera y da frutos secos. Su corteza tiene aplicaciones en la medicina natural.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/011-lapacho-main.png",
+    "category": "plantae",
+    "orden": "Lamiales",
+    "familia": "Bignoniaceae",
+    "género": "Handroanthus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/011-lapacho-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/011-lapacho-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "011 - Reino vegetal",
+    "reino-2": ""
+}

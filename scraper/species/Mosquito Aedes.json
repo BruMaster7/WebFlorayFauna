@@ -1,0 +1,18 @@
+{
+    "name": "Mosquito Aedes",
+    "cientific_name": "Aedes aegypti",
+    "description": "El mosquito Aedes tiene el cuerpo alargado, la cabeza pequeña y los ojos grandes. Se caracteriza por la presencia de bandas en las patas y manchas en el tórax, de color blanco plateado. Tiene un par de alas y un par de estructuras para mantener el equilibro llamadas balancines. Sus 6 patas son largas y delgadas. La hembra se alimenta de sangre; el macho, de néctar. ",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/insectos/002-mosquito-aedes-main.png",
+    "category": "animalia",
+    "orden": "Diptera",
+    "familia": "Culicidae",
+    "género": "Aedes",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/insectos/002-mosquito-aedes-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/insectos/002-mosquito-aedes-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/exoticos.jpg"
+    ],
+    "reino": "002 - Insectos",
+    "reino-2": "Reino animal"
+}

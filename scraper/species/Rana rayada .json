@@ -1,0 +1,19 @@
+{
+    "name": "Rana rayada ",
+    "cientific_name": "Dendropsophus minutus",
+    "description": "La rana rayada presenta una coloración dorsal castaña clara, con 2 bandas longitudinales y 2 laterales de color oscuro. El vientre es de color blanco amarillento. Mide 2 o 3 cm y su alimentación incluye pequeñas arañas y mosquitos. Vive en zonas serranas asociadas a cuerpos de agua.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/003-rana-rayada-main.png",
+    "category": "animalia",
+    "orden": "Anura",
+    "familia": "Hylidae",
+    "género": "Dendropsophus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/003-rana-rayada-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/003-rana-rayada-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos-y-diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "003 - Anfibios",
+    "reino-2": "Reino animal"
+}

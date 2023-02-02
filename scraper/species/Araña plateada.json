@@ -1,0 +1,19 @@
+{
+    "name": "Araña plateada",
+    "cientific_name": "Argiope argentata",
+    "description": "La araña plateada tiene el cuerpo de color plateado hasta la mitad del abdomen y posee algunas protuberancias. El vientre es negro con bandas amarillas, al igual que las patas. La hembra es de mayor tamaño que el macho y puede medir 2,5 cm (sin contar las patas). Se alimenta de insectos que obtiene en praderas y jardines, donde habita. ",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aracnidos/002-arana-plateada-main.png",
+    "category": "animalia",
+    "orden": "Araneae",
+    "familia": "Araneae",
+    "género": "Argiope ",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aracnidos/002-arana-plateada-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aracnidos/002-arana-plateada-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/abundante.jpg"
+    ],
+    "reino": "002 - Arácnidos",
+    "reino-2": "Reino animal"
+}

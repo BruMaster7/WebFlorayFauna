@@ -1,0 +1,17 @@
+{
+    "name": "Ninfa",
+    "cientific_name": "Nymphaea prolifera",
+    "description": "La ninfa es una hierba acuática y perenne, que se caracteriza porque abre sus flores durante la noche. Crece en aguas lentas y, en ocasiones, sobre el fango de las orillas. Es una planta muy vistosa y ornamental. Es considerada una especie de conservación prioritaria.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/016-ninfa-main.png",
+    "category": "plantae",
+    "orden": "Nymphaeales",
+    "familia": "Nymphaeaceae",
+    "género": "Nymphaea",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/016-ninfa-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/016-ninfa-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "016 - Reino vegetal",
+    "reino-2": ""
+}

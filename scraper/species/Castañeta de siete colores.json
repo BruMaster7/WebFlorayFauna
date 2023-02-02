@@ -1,0 +1,18 @@
+{
+    "name": "Castañeta de siete colores",
+    "cientific_name": "Gymnogeophagus gymnogenys",
+    "description": "La castañeta de siete colores es un pez mediano. El macho llega a medir 15 cm de longitud. Las escamas del costado presentan un color amarillo anaranjado y con frecuencia muestra una mancha negra sobre los ojos, como un antifaz. Vive en ríos y lagunas, escondido entre las plantas, donde atrapa invertebrados, gusanos y crías de peces.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/006-castaneta-de-siete-colores-main.png",
+    "category": "animalia",
+    "orden": "Perciformes",
+    "familia": "Cichlidae",
+    "género": "Gymnogeophagus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/006-castaneta-de-siete-colores-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/006-castaneta-de-siete-colores-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "006 - Peces",
+    "reino-2": "Reino animal"
+}

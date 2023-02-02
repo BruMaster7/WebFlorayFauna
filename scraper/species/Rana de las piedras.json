@@ -1,0 +1,19 @@
+{
+    "name": "Rana de las piedras",
+    "cientific_name": "Limnomedusa macroglossa",
+    "description": "La rana de las piedras tiene el dorso del cuerpo de color castaño claro a grisáceo, con manchas más oscuras. El vientre es de color blanco y la zona posterior de los muslos es amarillenta con un reticulado negro. Mide entre 4 y 6 cm de longitud. Se alimenta de hormigas y miriápodos (ciempiés). Vive en lugares rocosos, asociados a cursos de agua.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/009-ranas-de-las-piedras-main.png",
+    "category": "animalia",
+    "orden": "Anura",
+    "familia": "Cycloramphidae",
+    "género": "Limnomedusa",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/009-ranas-de-las-piedras-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/009-ranas-de-las-piedras-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "009 - Anfibios",
+    "reino-2": "Reino animal"
+}

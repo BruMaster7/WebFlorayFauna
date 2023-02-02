@@ -1,0 +1,18 @@
+{
+    "name": "Agua viva",
+    "cientific_name": "Lychnorhiza lucerna",
+    "description": "Lychnorhiza lucerna es una medusa de color blanco transparente. En el borde de la campana presenta unas estructuras de color azul violáceo o blanco. La campana puede llegar a medir entre 5 y 38 cm de diámetro. Se alimenta de huevos y larvas de peces. Es una especie marina que habita en estuarios y costas de aguas templadas y cálidas.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/cnidarios/002-agua-viva-main.png",
+    "category": "animalia",
+    "orden": "Rhizostomeae",
+    "familia": "Lychnorhizidae",
+    "género": "Lychnorhiza",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/cnidarios/002-agua-viva-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/cnidarios/002-agua-viva-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/peligroso.jpg"
+    ],
+    "reino": "002 - Cnidarios",
+    "reino-2": "Reino animal"
+}

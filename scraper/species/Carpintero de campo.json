@@ -1,0 +1,20 @@
+{
+    "name": "Carpintero de campo",
+    "cientific_name": "Colaptes campestris",
+    "description": "La cabeza y la nuca del carpintero de campo son negras, el cuello y las mejillas son de color amarillo, y las alas y el vientre tienen líneas negras sobre un fondo blanco. El pico es oscuro, largo y fuerte. Mide 30 cm de largo y pesa más de 170 g. El macho y la hembra presentan el mismo aspecto. La única diferencia es que el macho tiene una línea negra debajo del pico.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/006-carpintero-de-campo-main.png",
+    "category": "animalia",
+    "orden": "Piciformes",
+    "familia": "Picidae",
+    "género": "Colaptes",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/006-carpintero-de-campo-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/006-carpintero-de-campo-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/abundante.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "006 - Aves",
+    "reino-2": "Reino animal"
+}

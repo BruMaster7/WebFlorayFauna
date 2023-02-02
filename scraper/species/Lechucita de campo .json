@@ -1,0 +1,20 @@
+{
+    "name": "Lechucita de campo ",
+    "cientific_name": "Athene cunicularia",
+    "description": "La lechucita de campo presenta la cabeza redonda, los ojos grandes y amarillos, el pico pequeño y de color crema. Su plumaje es marrón con manchas blancas. Las alas son redondeadas y largas, la cola corta, las patas lagras y emplumadas. Puede pesar 250 g y la hembra es más grande que el macho. Se alimenta de pequeñas presas y habita en campos abiertos.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/001-lechucita-de-campo-main.png",
+    "category": "animalia",
+    "orden": "Strigiformes",
+    "familia": "Strigidae",
+    "género": "Athene",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/001-lechucita-de-campo-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/001-lechucita-de-campo-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos-y-diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/abundante.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "001 - Aves",
+    "reino-2": "Reino animal"
+}

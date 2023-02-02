@@ -1,0 +1,17 @@
+{
+    "name": "Euglena",
+    "cientific_name": "Euglena sp.",
+    "description": "Euglena es un organismo común, presente en casi todo el mundo, y casi exclusivamente de agua dulce. Puede encontrarse también en el suelo y en barros salobres. Las especies del género Euglena son protistas unicelulares flagelados.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-protista/009-euglena-main.png",
+    "category": "protista",
+    "orden": "Euglenales",
+    "familia": "Euglenidae",
+    "género": "Euglena",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-protista/009-euglena-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-protista/009-euglena-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/abundante.jpg"
+    ],
+    "reino": "009 - Reino protista",
+    "reino-2": ""
+}

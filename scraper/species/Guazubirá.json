@@ -1,0 +1,18 @@
+{
+    "name": "Guazubirá",
+    "cientific_name": "Mazama gouazoubira",
+    "description": "El guazubirá es un ciervo pequeño. Su coloración puede ser marrón rojiza, parda o grisácea. El macho presenta astas finas de hasta 15 cm de longitud. Llega a medir 1,20 m de largo y pesa hasta 20 kg. Se alimenta de pasturas, hojas y frutos. Habita en zonas de monte en gran parte de Uruguay.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/015-guazubira-main.png",
+    "category": "animalia",
+    "orden": "Artiodactyla",
+    "familia": "Cervidae",
+    "género": "Mazama",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/015-guazubira-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/015-guazubira-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos-y-diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "015 - Mamíferos",
+    "reino-2": "Reino animal"
+}

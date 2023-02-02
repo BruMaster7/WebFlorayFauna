@@ -1,0 +1,20 @@
+{
+    "name": "Biguá común",
+    "cientific_name": "Phalacrocorax brasilianus",
+    "description": "El biguá común es un ave acuática de plumaje negro, alas de color gris oscuro y buche rojo claro. Su pico es grisáceo, con base blanca y extremo en forma de gancho. Las patas son cortas y oscuras y tienen membranas entre los dedos. Mide 73 cm de largo, pesa 1,8 kg y sus alas pueden medir más de 1 m. Se alimenta de peces y pequeños invertebrados. Vive en aguas dulces y salobres.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/016-bigua-comun-main.png",
+    "category": "animalia",
+    "orden": "Pelecaniformes",
+    "familia": "Phalacrocoracidae",
+    "género": "Phalacrocorax",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/016-bigua-comun-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/aves/016-bigua-comun-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/abundante.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "016 - Aves",
+    "reino-2": "Reino animal"
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Camaleón marrón",
+    "cientific_name": "Cercosaura schreibersii",
+    "description": "El camaleón marrón es una lagartija pequeña, de cuerpo alargado y extremidades cortas y delgadas. Es de color castaño a gris oscuro en el dorso y tiene dos líneas amarillentas hasta la mitad de la cola. Su vientre es blanco grisáceo. Llega a medir 15 cm de largo. Se alimenta de arañas, larvas de insectos e insectos. Habita en zonas pobladas de todo el Uruguay.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/005-camaleon-marron-main.png",
+    "category": "animalia",
+    "orden": "Squamata",
+    "familia": "Gymnophthalmidae",
+    "género": "Cercosaura",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/005-camaleon-marron-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/reptiles/005-camaleon-marron-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/abundante.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "005 - Reptiles",
+    "reino-2": "Reino animal"
+}

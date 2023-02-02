@@ -1,0 +1,17 @@
+{
+    "name": "Cardo macho",
+    "cientific_name": "Bromelia anthiacantha",
+    "description": "El cardo macho es una hierba perenne, terrestre y espinosa, de hasta 1,50 m de altura. Sus hojas se disponen en forma de roseta. Las hojas externas son largas, verdes, con bordes espinosos y aserrados. Las hojas internas son más cortas y de color rojo intenso. Tiene propiedades medicinales y sus frutos son comestibles.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/004-cardo-macho-main.png",
+    "category": "plantae",
+    "orden": "Poales",
+    "familia": "Bromeliaceae",
+    "género": "Bromelia",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/004-cardo-macho-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/004-cardo-macho-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "004 - Reino vegetal",
+    "reino-2": ""
+}

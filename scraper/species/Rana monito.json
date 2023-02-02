@@ -1,0 +1,19 @@
+{
+    "name": "Rana monito",
+    "cientific_name": "Phyllomedusa iheringi",
+    "description": "El cuerpo de la rana monito tiene una coloración verde brillante en el dorso y tonalidades violáceas sobre un fondo anaranjado a los lados y en parte de sus extremidades. Un individuo adulto mide entre 6,5 y 7,5 cm. Se alimenta de insectos, principalmente de saltamontes. Habita sobre todo en ambientes serranos.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/012-rana-monito-main.png",
+    "category": "animalia",
+    "orden": "Anura",
+    "familia": "Hylidae",
+    "género": "Phyllomedusa",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/012-rana-monito-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/012-rana-monito-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "012 - Anfibios",
+    "reino-2": "Reino animal"
+}

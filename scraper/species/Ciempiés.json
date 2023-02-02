@@ -1,0 +1,17 @@
+{
+    "name": "Ciempiés",
+    "cientific_name": "Scutigera sp.",
+    "description": "El ciempiés es un miriápodo de color amarillo grisáceo. Su cuerpo cilíndrico se encuentra dividido en segmentos. En cada segmento de su cuerpo tiene un par de patas. Mide entre 3 y 5 cm. Se alimenta de pequeñas presas que obtiene en lugares húmedos y oscuros, donde habita.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/miriapodos/001-ciempies-main.png",
+    "category": "animalia",
+    "orden": "Scutigeromorpha",
+    "familia": "Scutigeridae",
+    "género": "Scutigera",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/miriapodos/001-ciempies-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/miriapodos/001-ciempies-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg"
+    ],
+    "reino": "001 - Miriápodos",
+    "reino-2": "Reino animal"
+}

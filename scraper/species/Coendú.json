@@ -1,0 +1,18 @@
+{
+    "name": "Coendú",
+    "cientific_name": "Coendou spinosus",
+    "description": "El coendú es un roedor de pelaje grisáceo amarillento. Su cuerpo está cubierto por púas, que usa como defensa. En las patas tiene uñas largas y su cola es larga y prensil. Llega a medir 80 cm de largo y a pesar 2,5 kg. Se alimenta de hojas, corteza, flores y frutos. Habita en montes del norte de Uruguay.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/004-coendu-main.png",
+    "category": "animalia",
+    "orden": "Rodentia",
+    "familia": "Erethizontidae",
+    "género": "Coendou",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/004-coendu-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/mamiferos/004-coendu-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "004 - Mamíferos",
+    "reino-2": "Reino animal"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Rana gato",
+    "cientific_name": "Physalaemus gracilis",
+    "description": "La rana gato presenta una coloración dorsal variable. Algunos ejemplares son de color castaño oscuro, otros presentan tonalidades marrones y otros tienen tonos sepia. La zona inguinal es de color rojo o naranja. Mide unos 3 cm de longitud. Se alimenta de artrópodos. Vive en pajonales y en zonas que se inundan fácilmente.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/014-rana-gato-main.png",
+    "category": "animalia",
+    "orden": "Anura",
+    "familia": "Leiuperidae",
+    "género": "Physalaemus",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/014-rana-gato-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/014-rana-gato-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "014 - Anfibios",
+    "reino-2": "Reino animal"
+}

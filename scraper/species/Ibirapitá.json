@@ -1,0 +1,17 @@
+{
+    "name": "Ibirapitá",
+    "cientific_name": "Peltophorum dubium",
+    "description": "El ibirapitá es un árbol nativo de la región. Tiene porte robusto y puede llegar a medir 25 m de altura. Se le conoce también como el árbol de Artigas, pues en homenaje al prócer se cultiva en la mayoría de las escuelas públicas y jardines de todo el país.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/020-ibirapita-main.png",
+    "category": "plantae",
+    "orden": "Fabales",
+    "familia": "Fabaceae",
+    "género": "Peltophorum",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/020-ibirapita-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-vegetal/020-ibirapita-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "020 - Reino vegetal",
+    "reino-2": ""
+}

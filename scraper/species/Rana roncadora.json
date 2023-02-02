@@ -1,0 +1,19 @@
+{
+    "name": "Rana roncadora",
+    "cientific_name": "Scinax granulatus",
+    "description": "La rana roncadora presenta una coloración dorsal gris o marrón clara con manchas oscuras. El vientre es blanco amarillento y en la ingle tiene un tono anaranjado. Tiene membranas entre los dedos de las patas posteriores. Mide unos 3 cm de longitud. Se alimenta de moscas, mosquitos y pequeños escarabajos. Vive bajo la corteza de los árboles, piedras u hojas de arbustos.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/018-rana-roncadora-main.png",
+    "category": "animalia",
+    "orden": "Anura",
+    "familia": "Hylidae",
+    "género": "Scinax",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/018-rana-roncadora-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/anfibios/018-rana-roncadora-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/preocupacion-menor.jpg"
+    ],
+    "reino": "018 - Anfibios",
+    "reino-2": "Reino animal"
+}

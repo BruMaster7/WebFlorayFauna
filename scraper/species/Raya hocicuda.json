@@ -1,0 +1,19 @@
+{
+    "name": "Raya hocicuda",
+    "cientific_name": "Sympterygia acuta",
+    "description": "La raya hocicuda es pequeña, tiene el cuerpo aplanado y el dorso de color marrón. Posee un hocico transparente formado por cartílago y la boca se encuentra en la región ventral del cuerpo. Su cola presenta espinas que le sirven como defensa. Mide hasta 50 cm de largo. Habita sobre el fondo marino, donde se alimenta de pequeños invertebrados.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/019-raya-hocicuda-main.png",
+    "category": "animalia",
+    "orden": "Rajiformes",
+    "familia": "Rajidae",
+    "género": "Sympterygia",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/019-raya-hocicuda-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/019-raya-hocicuda-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/nocturnos-y-diurnos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg",
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/peligroso.jpg"
+    ],
+    "reino": "019 - Peces",
+    "reino-2": "Reino animal"
+}

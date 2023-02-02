@@ -1,0 +1,17 @@
+{
+    "name": "Hongo de láminas verdes",
+    "cientific_name": "Chlorophyllum molybdites",
+    "description": "El hongo de láminas verdes es tóxico. Su sombrero llega a medir 20 cm de diámetro y está cubierto por escamas de color blanquecino o castaño, que se desprenden con facilidad. El pie inicialmente es blanquecino, pero al madurar se vuelve rojizo; es largo, engrosado hacia la base y llega a medir 14 cm de altura. Crece en el césped y con frecuencia se encuentra en grupos, formando anillos.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-de-los-hongos/002-hongo-de-laminas-verdes-main.png",
+    "category": "fungi",
+    "orden": "Agaricales",
+    "familia": "Agaricaceae",
+    "género": "Chlorophyllum",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-de-los-hongos/002-hongo-de-laminas-verdes-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-de-los-hongos/002-hongo-de-laminas-verdes-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/peligroso.jpg"
+    ],
+    "reino": "002 - Reino de los hongos",
+    "reino-2": ""
+}

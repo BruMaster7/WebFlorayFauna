@@ -1,0 +1,17 @@
+{
+    "name": "Pescadilla de calada",
+    "cientific_name": "Cynoscion guatucupa",
+    "description": "La pescadilla de calada es un pez de forma alargada y que presenta la aleta dorsal dividida en forma de “v”. Su coloración es gris azulada en el dorso y se aclara un poco en la región ventral. En general, mide entre 35 y 45 cm de largo, pero puede alcanzar los 65 cm. Se alimenta de crustáceos y de peces. Habita en aguas marinas y puede encontrarse a una profundidad de hasta 130 m.",
+    "image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/005-pescadilla-de-calada-main.png",
+    "category": "animalia",
+    "orden": "Perciformes",
+    "familia": "Sciaenidae",
+    "género": "Cynoscion",
+    "scale": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/005-pescadilla-de-calada-scale.png",
+    "map_image": "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/reino-animal/peces/005-pescadilla-de-calada-location.png",
+    "images": [
+        "http://manosanta.com.uy/contenidos/ceibal/_imgn/images/icons/autoctonos.jpg"
+    ],
+    "reino": "005 - Peces",
+    "reino-2": "Reino animal"
+}
