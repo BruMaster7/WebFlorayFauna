@@ -5,8 +5,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/css/normalize.css">
-    <link rel="stylesheet" href="/css/styles.css">
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/styles.css">
     <script src="https://kit.fontawesome.com/7e5b2d153f.js" crossorigin="anonymous"></script>
     <script defer src="index.js"></script>
 
@@ -16,7 +16,7 @@
 <body>
     <div class="contenedor">
         <header class="header cabecera">
-            <a href="/index.html" class="link-logo"><img class="logo" src="/img/tero2.png" alt="Logotipo-tero"> </a>
+            <a href="index.html" class="link-logo"><img class="logo" src="img/tero2.png" alt="Logotipo-tero"> </a>
 
             <nav class="nav menu">
                 <a href="#" class="logo2 nav-link"></a>
@@ -24,9 +24,9 @@
                     <i class="fas fa-bars"></i>
                 </button>
                 <ul class="nav-menu">
-                    <li class="nav-menu-item"><a href="/index.html" class="nav-menu-link nav-link">Inicio</a></li>
-                    <li class="nav-menu-item"><a href="/fauna.html" class="nav-menu-link nav-link">Fauna</a></li>
-                    <li class="nav-menu-item"><a href="/flora.html" class="nav-menu-link nav-link">Flora</a></li>
+                    <li class="nav-menu-item"><a href="index.html" class="nav-menu-link nav-link">Inicio</a></li>
+                    <li class="nav-menu-item"><a href="fauna.html" class="nav-menu-link nav-link">Fauna</a></li>
+                    <li class="nav-menu-item"><a href="flora.html" class="nav-menu-link nav-link">Flora</a></li>
                     <li class="nav-menu-item"><a href="#" class="nav-menu-link nav-link">Contacto</a></li>
                 </ul>
             </nav>
@@ -143,10 +143,10 @@
                     sociales, o mediante la página de contacto en la web
                 </p>
                 <div class="redes-sociales">
-                    <a href="#"><img src="/img/Instagram.png" alt=""></a>
-                    <a href="#"><img src="/img/Twitter.png" alt=""></a>
-                    <a href="#"><img src="/img/Facebook.png" alt=""></a>
-                    <a href="#"><img src="/img/WhatsApp.png" alt=""></a>
+                    <a href="#"><img src="img/Instagram.png" alt=""></a>
+                    <a href="#"><img src="img/Twitter.png" alt=""></a>
+                    <a href="#"><img src="img/Facebook.png" alt=""></a>
+                    <a href="#"><img src="img/WhatsApp.png" alt=""></a>
                 </div>
             </div>
             <div class="col-2">
@@ -163,7 +163,43 @@
 
 
 
-</body>
+    <!-- Modal para detalles de especies -->
+    <div id="speciesModal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <div id="modalHeader" class="modal-header">
+                <div class="modal-title-container">
+                    <h2 id="modalName"></h2>
+                    <p id="modalScientificName"></p>
+                </div>
+            </div>
+            <div class="modal-body">
+                <div class="modal-info-main">
+                    <h3>Descripción</h3>
+                    <p id="modalDescription" class="modal-description"></p>
+                    <div id="modalIcons" class="modal-icons"></div>
+                </div>
+                <div class="modal-taxonomy">
+                    <p><strong>Categoría:</strong> <span id="modalCategory"></span></p>
+                    <p><strong>Reino:</strong> <span id="modalReino"></span></p>
+                    <p><strong>Orden:</strong> <span id="modalOrden"></span></p>
+                    <p><strong>Familia:</strong> <span id="modalFamilia"></span></p>
+                    <p><strong>Género:</strong> <span id="modalGenero"></span></p>
+                </div>
+            </div>
+            <div class="modal-images-grid">
+                <div class="modal-image-item">
+                    <img id="modalScale" src="" alt="Escala">
+                    <p>Escala aproximada</p>
+                </div>
+                <div class="modal-image-item">
+                    <img id="modalMap" src="" alt="Distribución">
+                    <p>Distribución en Uruguay</p>
+                </div>
+            </div>
+        </div>
+    </div>
 
+</body>
 </html>
 </div>
