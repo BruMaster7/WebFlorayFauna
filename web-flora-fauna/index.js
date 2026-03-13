@@ -152,7 +152,7 @@ function closeModal() {
   document.body.classList.remove('noscroll');
 }
 
-// Event listeners para cerrar el modal
+// Event listeners para cerrar el modal y búsqueda
 document.addEventListener('DOMContentLoaded', () => {
     const closeBtn = document.querySelector('.close-modal');
     if (closeBtn) {
@@ -164,5 +164,72 @@ document.addEventListener('DOMContentLoaded', () => {
         if (event.target == modal) {
             closeModal();
         }
+        
+        // Cerrar resultados de búsqueda al hacer clic fuera
+        const searchResults = document.getElementById('searchResults');
+        if (searchResults && event.target !== searchResults && !searchResults.contains(event.target) && event.target.id !== 'globalSearch') {
+            searchResults.style.display = 'none';
+        }
     };
+
+    const searchInput = document.getElementById('globalSearch');
+    if (searchInput) {
+        searchInput.oninput = debounce(async (e) => {
+            const query = e.target.value.trim();
+            if (query.length < 2) {
+                hideSearchResults();
+                return;
+            }
+            const res = await fetch(`http://localhost:3001/search?q=${encodeURIComponent(query)}`);
+            const results = await res.json();
+            showSearchResults(results);
+        }, 300);
+    }
 });
+
+function debounce(func, wait) {
+    let timeout;
+    return (...args) => {
+        clearTimeout(timeout);
+        timeout = setTimeout(() => func.apply(this, args), wait);
+    };
+}
+
+function showSearchResults(results) {
+    let resultsDiv = document.getElementById('searchResults');
+    if (!resultsDiv) {
+        resultsDiv = document.createElement('div');
+        resultsDiv.id = 'searchResults';
+        resultsDiv.className = 'search-results-overlay';
+        document.querySelector('.search-container').appendChild(resultsDiv);
+    }
+
+    resultsDiv.innerHTML = '';
+    if (results.length === 0) {
+        resultsDiv.innerHTML = '<p class="no-results">No se encontraron especies.</p>';
+    } else {
+        results.forEach(item => {
+            const div = document.createElement('div');
+            div.className = 'search-result-item';
+            div.innerHTML = `
+                <img src="${item.img}" alt="${item.nombre}">
+                <div>
+                    <strong>${item.nombre}</strong>
+                    <p>${item.nombrecientifico || ''}</p>
+                    <span class="badge ${item.type}">${item.type === 'animalia' ? 'Fauna' : 'Flora'}</span>
+                </div>
+            `;
+            div.onclick = () => {
+                showModal(item);
+                hideSearchResults();
+            };
+            resultsDiv.appendChild(div);
+        });
+    }
+    resultsDiv.style.display = 'block';
+}
+
+function hideSearchResults() {
+    const resultsDiv = document.getElementById('searchResults');
+    if (resultsDiv) resultsDiv.style.display = 'none';
+}
