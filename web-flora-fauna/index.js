@@ -16,12 +16,17 @@ navToggle.addEventListener("click", () => {
 });
 
 
+// Definición de URL dinámica: en local usa port 3001, en Netlify usará el backend de Render que hay que configurar.
+const API_URL = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1' 
+    ? 'http://localhost:3001' 
+    : 'AQUI_VA_LA_URL_DE_RENDER';
+
 // FetchAPI para trabajar con la base de datos de los animales
 
 async function fetchData() {
   const fauna = document.getElementById('fauna')
   if (fauna) {
-    const res = await fetch('http://localhost:3001');
+    const res = await fetch(`${API_URL}/`);
     const data = await res.json()
     for (const animal of data) {
       const card = createCard(animal, 'animal')
@@ -30,7 +35,7 @@ async function fetchData() {
   }
   const flora = document.getElementById('flora')
   if (flora) {
-    const res = await fetch('http://localhost:3001/flora');
+    const res = await fetch(`${API_URL}/flora`);
     const data = await res.json()
     for (const specie of data) {
       const card = createCard(specie, 'floraH')
@@ -180,7 +185,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 hideSearchResults();
                 return;
             }
-            const res = await fetch(`http://localhost:3001/search?q=${encodeURIComponent(query)}`);
+            const res = await fetch(`${API_URL}/search?q=${encodeURIComponent(query)}`);
             const results = await res.json();
             showSearchResults(results);
         }, 300);
