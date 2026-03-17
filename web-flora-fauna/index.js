@@ -1,4 +1,29 @@
-// Menú hamburguesa - Mobile
+// ── Loading overlay ──────────────────────────────────────────────────────────
+const overlay = document.getElementById('loading-overlay');
+const loadingBar = document.getElementById('loading-bar');
+
+function hideOverlay() {
+  if (overlay) {
+    overlay.classList.add('hidden');
+  }
+}
+
+// Animate progress bar over 50 seconds (Render cold start worst-case)
+if (loadingBar) {
+  const DURATION_MS = 50000;
+  const start = Date.now();
+  const barInterval = setInterval(() => {
+    const elapsed = Date.now() - start;
+    const pct = Math.min((elapsed / DURATION_MS) * 95, 95); // cap at 95% until done
+    loadingBar.style.width = pct + '%';
+    if (elapsed >= DURATION_MS) clearInterval(barInterval);
+  }, 300);
+
+  // Store interval so fetchData can clear it and jump to 100%
+  window._barInterval = barInterval;
+}
+
+// ── Menú hamburguesa - Mobile ─────────────────────────────────────────────────
 
 const navToggle = document.querySelector(".nav-toggle");
 const navMenu = document.querySelector(".nav-menu");
@@ -25,23 +50,30 @@ if (API_URL.endsWith('/')) {
 // FetchAPI para trabajar con la base de datos de los animales
 
 async function fetchData() {
-  const fauna = document.getElementById('fauna')
-  if (fauna) {
-    const res = await fetch(`${API_URL}/`);
-    const data = await res.json()
-    for (const animal of data) {
-      const card = createCard(animal, 'animal')
-      fauna.append(card)
+  try {
+    const fauna = document.getElementById('fauna')
+    if (fauna) {
+      const res = await fetch(`${API_URL}/`);
+      const data = await res.json()
+      for (const animal of data) {
+        const card = createCard(animal, 'animal')
+        fauna.append(card)
+      }
     }
-  }
-  const flora = document.getElementById('flora')
-  if (flora) {
-    const res = await fetch(`${API_URL}/flora`);
-    const data = await res.json()
-    for (const specie of data) {
-      const card = createCard(specie, 'floraH')
-      flora.append(card)
+    const flora = document.getElementById('flora')
+    if (flora) {
+      const res = await fetch(`${API_URL}/flora`);
+      const data = await res.json()
+      for (const specie of data) {
+        const card = createCard(specie, 'floraH')
+        flora.append(card)
+      }
     }
+  } finally {
+    // Jump bar to 100% and hide overlay
+    if (window._barInterval) clearInterval(window._barInterval);
+    if (loadingBar) loadingBar.style.width = '100%';
+    setTimeout(hideOverlay, 400);
   }
 }
 
