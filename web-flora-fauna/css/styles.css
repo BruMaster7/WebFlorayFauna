@@ -17,6 +17,7 @@
 
 body {
   font-family: "Open Sans", Arial, Helvetica, sans-serif;
+  overflow-x: hidden;
 }
 
 h1,
@@ -38,6 +39,7 @@ img {
 /* apply a natural box layout model to all elements, but allowing components to change */
 html {
   box-sizing: border-box;
+  overflow-x: hidden;
 }
 
 *,
@@ -482,27 +484,30 @@ footer {
     align-items: center;
     margin: 0;
     background-color: var(--gris_oscuro);
-    position: absolute;
-    top: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
     width: 100%;
-    padding: 20px 0;
-
-    height: calc(100vh - 163px);
+    height: 100vh;
+    padding: 80px 0 20px 0;
     overflow-y: auto;
-
-    left: 100%;
-    z-index: 20;
-    transition: left 0.3s;
+    z-index: 200;
+    transform: translateX(100%);
+    visibility: hidden;
+    transition: transform 0.3s ease, visibility 0.3s ease;
   }
 
   .nav-toggle {
     display: block;
     margin-right: 10px;
     padding: 0 10px;
+    position: relative;
+    z-index: 300;
   }
 
   .nav-menu_visible {
-    left: 0;
+    transform: translateX(0);
+    visibility: visible;
   }
 
   /* Shrink search bar slightly for mobile */
@@ -614,7 +619,7 @@ footer {
   top: 0;
   background: rgba(255, 255, 255, 0.85);
   backdrop-filter: blur(10px);
-  z-index: 100;
+  z-index: 250;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
 }
 
