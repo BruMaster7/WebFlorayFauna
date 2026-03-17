@@ -16,10 +16,11 @@ navToggle.addEventListener("click", () => {
 });
 
 
-// Definición de URL dinámica: en local usa port 3001, en Netlify usará el backend de Render que hay que configurar.
-const API_URL = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1' 
-    ? 'http://localhost:3001' 
-    : 'AQUI_VA_LA_URL_DE_RENDER';
+// Definición de URL dinámica asignada en tiempo de compilación para Netlify
+let API_URL = typeof CONFIG !== 'undefined' ? CONFIG.API_URL : 'http://localhost:3001';
+if (API_URL.endsWith('/')) {
+  API_URL = API_URL.slice(0, -1);
+}
 
 // FetchAPI para trabajar con la base de datos de los animales
 
@@ -49,57 +50,57 @@ document.addEventListener('DOMContentLoaded', async () => await fetchData());
 // Generar las tarjetas de animales al front
 
 function createCard(specie, category) {
-  
+
   const tarjetas = document.createElement('div')
   tarjetas.classList.add('specie', category)
   let caracteristicas = '';
   if (specie.caracteristicas && specie.caracteristicas.length > 0) {
-    for (const rawUrl of specie.caracteristicas.split(',')){
+    for (const rawUrl of specie.caracteristicas.split(',')) {
       const localUrl = mapIconUrl(rawUrl);
       const title = getIconTitle(rawUrl);
       caracteristicas += `<img class="habitat-icon" src="${localUrl}" alt="${title}" title="${title}"></img>`
     }
   }
-  
+
   tarjetas.innerHTML = (`<img src="${specie.img}" alt="${specie.nombre}">` +
     `<h3>${specie.nombre}</h3>` +
     `<p>${specie.nombrecientifico || ''}</p>` +
     '<div class="caracteristicas">' + caracteristicas + "</div>" +
     '<div class="centrar-boton">' +
     '<a class="boton boton2 ver-mas-btn" href="#">Ver más</a>')
-  
+
   const btn = tarjetas.querySelector('.ver-mas-btn');
   btn.onclick = (e) => {
     e.preventDefault();
     showModal(specie);
   };
-  
+
   return tarjetas
 }
 
 function mapIconUrl(url) {
-    if (!url) return '';
-    const filename = url.split('/').pop().split('.')[0].toLowerCase();
-    
-    // Mapping specific filenames
-    const mapping = {
-        'diurnos': 'diurno',
-        'nocturnos': 'nocturno',
-        'autoctonos': 'autoctono',
-        'nocturnos-y-diurnos': 'nocturno-y-diurno',
-        'peligroso': 'Peligroso',
-        'raro': 'Raro',
-        'en-peligro-de-extincion': 'en_peligro_de_extincion'
-    };
-    
-    const mappedName = mapping[filename] || filename;
-    return `img/caracteristicas/${mappedName}.png`;
+  if (!url) return '';
+  const filename = url.split('/').pop().split('.')[0].toLowerCase();
+
+  // Mapping specific filenames
+  const mapping = {
+    'diurnos': 'diurno',
+    'nocturnos': 'nocturno',
+    'autoctonos': 'autoctono',
+    'nocturnos-y-diurnos': 'nocturno-y-diurno',
+    'peligroso': 'Peligroso',
+    'raro': 'Raro',
+    'en-peligro-de-extincion': 'en_peligro_de_extincion'
+  };
+
+  const mappedName = mapping[filename] || filename;
+  return `img/caracteristicas/${mappedName}.png`;
 }
 
 function getIconTitle(url) {
-    const filename = url.split('/').pop().split('.')[0].toLowerCase();
-    const title = filename.charAt(0).toUpperCase() + filename.slice(1).replace(/-/g, ' ').replace(/_/g, ' ');
-    return title;
+  const filename = url.split('/').pop().split('.')[0].toLowerCase();
+  const title = filename.charAt(0).toUpperCase() + filename.slice(1).replace(/-/g, ' ').replace(/_/g, ' ');
+  return title;
 }
 
 // Lógica del Modal
@@ -159,64 +160,64 @@ function closeModal() {
 
 // Event listeners para cerrar el modal y búsqueda
 document.addEventListener('DOMContentLoaded', () => {
-    const closeBtn = document.querySelector('.close-modal');
-    if (closeBtn) {
-        closeBtn.onclick = closeModal;
+  const closeBtn = document.querySelector('.close-modal');
+  if (closeBtn) {
+    closeBtn.onclick = closeModal;
+  }
+
+  window.onclick = (event) => {
+    const modal = document.getElementById('speciesModal');
+    if (event.target == modal) {
+      closeModal();
     }
 
-    window.onclick = (event) => {
-        const modal = document.getElementById('speciesModal');
-        if (event.target == modal) {
-            closeModal();
-        }
-        
-        // Cerrar resultados de búsqueda al hacer clic fuera
-        const searchResults = document.getElementById('searchResults');
-        if (searchResults && event.target !== searchResults && !searchResults.contains(event.target) && event.target.id !== 'globalSearch') {
-            searchResults.style.display = 'none';
-        }
-    };
-
-    const searchInput = document.getElementById('globalSearch');
-    if (searchInput) {
-        searchInput.oninput = debounce(async (e) => {
-            const query = e.target.value.trim();
-            if (query.length < 2) {
-                hideSearchResults();
-                return;
-            }
-            const res = await fetch(`${API_URL}/search?q=${encodeURIComponent(query)}`);
-            const results = await res.json();
-            showSearchResults(results);
-        }, 300);
+    // Cerrar resultados de búsqueda al hacer clic fuera
+    const searchResults = document.getElementById('searchResults');
+    if (searchResults && event.target !== searchResults && !searchResults.contains(event.target) && event.target.id !== 'globalSearch') {
+      searchResults.style.display = 'none';
     }
+  };
+
+  const searchInput = document.getElementById('globalSearch');
+  if (searchInput) {
+    searchInput.oninput = debounce(async (e) => {
+      const query = e.target.value.trim();
+      if (query.length < 2) {
+        hideSearchResults();
+        return;
+      }
+      const res = await fetch(`${API_URL}/search?q=${encodeURIComponent(query)}`);
+      const results = await res.json();
+      showSearchResults(results);
+    }, 300);
+  }
 });
 
 function debounce(func, wait) {
-    let timeout;
-    return (...args) => {
-        clearTimeout(timeout);
-        timeout = setTimeout(() => func.apply(this, args), wait);
-    };
+  let timeout;
+  return (...args) => {
+    clearTimeout(timeout);
+    timeout = setTimeout(() => func.apply(this, args), wait);
+  };
 }
 
 function showSearchResults(results) {
-    let resultsDiv = document.getElementById('searchResults');
-    if (!resultsDiv) {
-        resultsDiv = document.createElement('div');
-        resultsDiv.id = 'searchResults';
-        resultsDiv.className = 'search-results-overlay';
-        document.querySelector('.search-container').appendChild(resultsDiv);
-    }
+  let resultsDiv = document.getElementById('searchResults');
+  if (!resultsDiv) {
+    resultsDiv = document.createElement('div');
+    resultsDiv.id = 'searchResults';
+    resultsDiv.className = 'search-results-overlay';
+    document.querySelector('.search-container').appendChild(resultsDiv);
+  }
 
-    resultsDiv.innerHTML = '';
-    if (results.length === 0) {
-        resultsDiv.innerHTML = '<p class="no-results">No se encontraron especies.</p>';
-    } else {
-        results.forEach(item => {
-            const div = document.createElement('div');
-            div.className = 'search-result-item';
-            div.innerHTML = `
+  resultsDiv.innerHTML = '';
+  if (results.length === 0) {
+    resultsDiv.innerHTML = '<p class="no-results">No se encontraron especies.</p>';
+  } else {
+    results.forEach(item => {
+      const div = document.createElement('div');
+      div.className = 'search-result-item';
+      div.innerHTML = `
                 <img src="${item.img}" alt="${item.nombre}">
                 <div>
                     <strong>${item.nombre}</strong>
@@ -224,17 +225,17 @@ function showSearchResults(results) {
                     <span class="badge ${item.type}">${item.type === 'animalia' ? 'Fauna' : 'Flora'}</span>
                 </div>
             `;
-            div.onclick = () => {
-                showModal(item);
-                hideSearchResults();
-            };
-            resultsDiv.appendChild(div);
-        });
-    }
-    resultsDiv.style.display = 'block';
+      div.onclick = () => {
+        showModal(item);
+        hideSearchResults();
+      };
+      resultsDiv.appendChild(div);
+    });
+  }
+  resultsDiv.style.display = 'block';
 }
 
 function hideSearchResults() {
-    const resultsDiv = document.getElementById('searchResults');
-    if (resultsDiv) resultsDiv.style.display = 'none';
+  const resultsDiv = document.getElementById('searchResults');
+  if (resultsDiv) resultsDiv.style.display = 'none';
 }
