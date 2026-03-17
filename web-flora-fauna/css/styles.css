@@ -406,6 +406,12 @@ footer {
   width: max-content;
 }
 
+.search-item {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+}
+
 .nav-menu-link {
   padding: 8px 12px;
   border-radius: 3px;
@@ -426,6 +432,12 @@ footer {
   cursor: pointer;
 
   display: none;
+}
+
+.burger-icon {
+  width: 30px;
+  height: 30px;
+  filter: invert(30%); /* Adjust to match the text color, optional */
 }
 
 /* MOBILE */
@@ -488,6 +500,13 @@ footer {
   .search-input {
     width: 130px;
     padding: 8px 10px 8px 30px;
+  }
+
+  /* Mobile specific overrides for search bar inside menu */
+  .search-item {
+    margin: 10px 0 20px 0;
+    width: 100%;
+    justify-content: center;
   }
 
   .search-input:focus {
@@ -591,6 +610,7 @@ footer {
   top: 100%;
   left: 0;
   width: 400px;
+  max-width: 90vw;
   max-height: 500px;
   overflow-y: auto;
   background: white;
