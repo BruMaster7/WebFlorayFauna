@@ -455,19 +455,43 @@ footer {
   .nav-menu {
     flex-direction: column;
     align-items: center;
-    margin: 163px 0 0 0;
+    margin: 0;
     background-color: var(--gris_oscuro);
-    position: fixed;
-    top: 0px;
+    position: absolute;
+    top: 100%;
     width: 100%;
     padding: 20px 0;
 
-    height: calc(100% - 60px);
+    height: calc(100vh - 163px);
     overflow-y: auto;
 
     left: 100%;
     z-index: 20;
     transition: left 0.3s;
+  }
+
+  .nav-toggle {
+    display: block;
+    margin-right: 10px;
+    padding: 0 10px;
+  }
+
+  .nav-menu_visible {
+    left: 0;
+  }
+
+  /* Shrink search bar slightly for mobile */
+  .search-container {
+    margin-right: 10px;
+  }
+
+  .search-input {
+    width: 130px;
+    padding: 8px 10px 8px 30px;
+  }
+
+  .search-input:focus {
+    width: 150px;
   }
 
   .nav-menu-item {
@@ -482,15 +506,6 @@ footer {
   .nav-menu-link_active {
     background: none;
     color: #83c5f7;
-  }
-
-  .nav-toggle {
-    display: block;
-    margin-right: 40px;
-  }
-
-  .nav-menu_visible {
-    left: 0;
   }
 
   .nav-toggle:focus:not(:focus-visible) {
