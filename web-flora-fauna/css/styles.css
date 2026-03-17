@@ -198,19 +198,32 @@ a.boton {
 .info {
   background-color: var(--verde_oscuro);
   max-width: 400px;
-  padding-bottom: 40px;
+  padding-bottom: 20px;
+  display: flex;
+  flex-direction: column;
 }
 
 .info img {
   width: 100%;
+  height: 250px;
+  object-fit: cover;
 }
 
-.info h3,
+.info h3 {
+  text-transform: none;
+  color: white;
+  text-align: left;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
 .info p {
   text-transform: none;
   color: white;
   text-align: left;
-  margin-left: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  flex-grow: 1; /* Pushes content down equally */
 }
 
 .info h3 {
