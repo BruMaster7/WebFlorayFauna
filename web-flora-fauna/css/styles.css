@@ -31,10 +31,23 @@
   pointer-events: none;
 }
 
-.loading-logo {
-  width: 80px;
-  height: 80px;
+.loading-logo-circle {
+  width: 106px;
+  height: 106px;
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 50%;
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.2), 0 6px 20px rgba(0, 0, 0, 0.35);
+  display: flex;
+  align-items: center;
+  justify-content: center;
   animation: pulse-logo 2s ease-in-out infinite;
+}
+
+.loading-logo {
+  width: 76px;
+  height: 76px;
+  object-fit: contain;
+  display: block;
 }
 
 @keyframes pulse-logo {
