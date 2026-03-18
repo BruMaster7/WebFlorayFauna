@@ -608,14 +608,16 @@ footer {
     visibility: visible;
   }
 
-  /* Shrink search bar slightly for mobile */
+  /* Search bar inside mobile full-screen menu */
   .search-container {
-    margin-right: 10px;
+    margin-right: 0;
+    width: 85%;
   }
 
   .search-input {
-    width: 130px;
-    padding: 8px 10px 8px 30px;
+    width: 100%;
+    padding: 10px 15px 10px 36px;
+    font-size: 15px;
   }
 
   /* Mobile specific overrides for search bar inside menu */
@@ -626,7 +628,7 @@ footer {
   }
 
   .search-input:focus {
-    width: 150px;
+    width: 100%;
   }
 
   .nav-menu-item {
@@ -733,9 +735,25 @@ footer {
   border-radius: 10px;
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
   margin-top: 10px;
-  z-index: 1000;
+  z-index: 10000;
   display: none;
   border: 1px solid #eee;
+}
+
+@media (max-width: 767px) {
+  .search-results-overlay {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 92vw;
+    max-width: 92vw;
+    max-height: 70vh;
+    margin-top: 0;
+    border-radius: 16px;
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.25);
+    z-index: 99999;
+  }
 }
 
 .search-result-item {
