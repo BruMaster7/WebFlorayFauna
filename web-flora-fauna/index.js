@@ -56,6 +56,7 @@ async function fetchData() {
       const res = await fetch(`${API_URL}/`);
       const data = await res.json()
       for (const animal of data) {
+        animal.type = 'animalia';
         const card = createCard(animal, 'animal')
         fauna.append(card)
       }
@@ -65,6 +66,7 @@ async function fetchData() {
       const res = await fetch(`${API_URL}/flora`);
       const data = await res.json()
       for (const specie of data) {
+        specie.type = 'plantae';
         const card = createCard(specie, 'floraH')
         flora.append(card)
       }
@@ -119,6 +121,7 @@ function mapIconUrl(url) {
     'diurnos': 'diurno',
     'nocturnos': 'nocturno',
     'autoctonos': 'autoctono',
+    'exoticos': 'exotico',
     'nocturnos-y-diurnos': 'nocturno-y-diurno',
     'peligroso': 'Peligroso',
     'raro': 'Raro',
@@ -157,7 +160,7 @@ function showModal(specie) {
   modalName.textContent = specie.nombre;
   modalScientificName.textContent = specie.nombrecientifico;
   modalDescription.textContent = specie.descripcion;
-  modalCategory.textContent = specie.category === 'animalia' ? 'Fauna' : 'Flora';
+  modalCategory.textContent = specie.type === 'animalia' ? 'Fauna' : (specie.type === 'plantae' ? 'Flora' : (specie.category === 'animalia' ? 'Fauna' : 'Flora'));
   modalReino.textContent = specie.reino;
   modalOrden.textContent = specie.orden;
   modalFamilia.textContent = specie.familia;

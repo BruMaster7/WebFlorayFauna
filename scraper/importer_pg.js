@@ -39,7 +39,7 @@ async function runImporter() {
                     species.image,
                     species.orden,
                     species.familia,
-                    species.genero,
+                    species['género'] || species.genero,
                     species.map_image,
                     species.scale,
                     reino,
