@@ -512,6 +512,30 @@ footer {
   margin: 180px 20px 0px 20px;
 }
 
+.footer-extra {
+  margin-top: 20px;
+  border-top: 1px solid rgba(255, 255, 255, 0.15);
+  padding-top: 15px;
+}
+
+.footer-extra p {
+  font-size: 14px;
+  line-height: 1.6;
+  margin-bottom: 12px;
+}
+
+.col-2 a {
+  color: var(--amarillo);
+  text-transform: none;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.col-2 a:hover {
+  color: var(--blanco);
+  text-decoration: underline;
+}
+
 .col-1 h3,
 .col-1 p,
 .col-2 h3,
