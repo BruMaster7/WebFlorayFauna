@@ -51,8 +51,17 @@
 }
 
 @keyframes pulse-logo {
-  0%, 100% { transform: scale(1); opacity: 1; }
-  50% { transform: scale(1.08); opacity: 0.85; }
+
+  0%,
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+
+  50% {
+    transform: scale(1.08);
+    opacity: 0.85;
+  }
 }
 
 .loading-spinner {
@@ -65,7 +74,9 @@
 }
 
 @keyframes spin {
-  to { transform: rotate(360deg); }
+  to {
+    transform: rotate(360deg);
+  }
 }
 
 .loading-text {
@@ -96,7 +107,7 @@
 .loading-bar-container {
   width: 220px;
   height: 4px;
-  background: rgba(255,255,255,0.15);
+  background: rgba(255, 255, 255, 0.15);
   border-radius: 4px;
   overflow: hidden;
 }
@@ -188,7 +199,7 @@ a {
 
 img.logo {
   max-width: 80%;
-  margin: 20px 0;
+  margin: 20px 10px;
 }
 
 .link-logo {
@@ -323,7 +334,8 @@ a.boton {
   text-align: left;
   margin-left: 20px;
   margin-right: 20px;
-  flex-grow: 1; /* Pushes content down equally */
+  flex-grow: 1;
+  /* Pushes content down equally */
 }
 
 .info h3 {
@@ -432,9 +444,11 @@ footer {
     height: auto;
     padding-bottom: 50px;
   }
+
   .col-1 {
     margin: 120px 20px 0px 20px;
   }
+
   .col-2 {
     margin: 40px 20px 0px 20px;
   }
@@ -550,7 +564,8 @@ footer {
 .burger-icon {
   width: 30px;
   height: 30px;
-  filter: invert(30%); /* Adjust to match the text color, optional */
+  filter: invert(30%);
+  /* Adjust to match the text color, optional */
 }
 
 /* MOBILE */
@@ -725,44 +740,47 @@ footer {
 
 .search-results-overlay {
   position: absolute;
-  top: 100%;
+  top: calc(100% + 5px);
   left: 0;
-  width: 400px;
+  width: auto;
+  min-width: 320px;
   max-width: 90vw;
-  max-height: 500px;
+  max-height: 450px;
   overflow-y: auto;
   background: white;
-  border-radius: 10px;
-  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
-  margin-top: 10px;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+  margin-top: 0;
   z-index: 10000;
   display: none;
-  border: 1px solid #eee;
+  border: 1px solid #eaeaea;
+  line-height: normal;
+  text-transform: none;
+  text-align: left;
 }
 
 @media (max-width: 767px) {
   .search-results-overlay {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 92vw;
-    max-width: 92vw;
-    max-height: 70vh;
-    margin-top: 0;
-    border-radius: 16px;
-    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.25);
-    z-index: 99999;
+    position: absolute;
+    top: calc(100% + 8px);
+    left: 0;
+    min-width: unset;
+    width: 100%;
+    max-width: 100%;
+    max-height: 60vh;
+    border-radius: 12px;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+    transform: none;
   }
 }
 
 .search-result-item {
   display: flex;
   align-items: center;
-  padding: 12px;
+  padding: 12px 16px;
   cursor: pointer;
-  transition: background 0.2s;
-  border-bottom: 1px solid #f5f5f5;
+  transition: all 0.2s ease;
+  border-bottom: 1px solid #f0f0f0;
 }
 
 .search-result-item:last-child {
@@ -770,38 +788,53 @@ footer {
 }
 
 .search-result-item:hover {
-  background: #f9f9f9;
+  background: #f8fcf5;
 }
 
 .search-result-item img {
-  width: 50px;
-  height: 50px;
+  width: 55px;
+  height: 55px;
   object-fit: cover;
   border-radius: 8px;
   margin-right: 15px;
+  border: 1px solid #efefef;
+  flex-shrink: 0;
+}
+
+.search-result-item div {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
 }
 
 .search-result-item strong {
   display: block;
-  font-size: 16px;
-  color: var(--verde_oscuro);
+  font-size: 15px;
+  color: var(--gris_oscuro);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .search-result-item p {
-  margin: 0;
+  margin: 2px 0 0;
   font-size: 13px;
   color: #777;
   font-style: italic;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .search-result-item .badge {
   font-size: 10px;
-  padding: 2px 6px;
-  border-radius: 10px;
+  padding: 3px 8px;
+  border-radius: 12px;
   text-transform: uppercase;
   font-weight: bold;
-  margin-top: 4px;
+  margin-top: 6px;
   display: inline-block;
+  align-self: flex-start;
 }
 
 .badge.animalia {
@@ -809,7 +842,7 @@ footer {
   color: #2e7d32;
 }
 
-.badge.flora {
+.badge.flora, .badge.plantae {
   background: #fff3e0;
   color: #ef6c00;
 }
