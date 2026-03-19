@@ -261,13 +261,17 @@ a.boton {
   padding: 10px 40px;
   background-color: var(--blanco);
   border-radius: 60px;
-  transition: background-color 0.3s;
-  transition: color 0.8s;
+  transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+  display: inline-block;
+  border: none;
+  cursor: pointer;
 }
 
 .boton:hover {
   background-color: var(--gris_oscuro);
   color: var(--blanco);
+  transform: translateY(-3px) scale(1.02);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
 }
 
 /**  RESPONSIVE HERO **/
@@ -719,14 +723,14 @@ footer {
   font-size: 20px;
 }
 
-/** ANIMATIONS **/
+/** ANIMATIONS & INTERACTION **/
 .specie {
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  transition: all 0.5s cubic-bezier(0.165, 0.84, 0.44, 1);
 }
 
 .specie:hover {
-  transform: translateY(-10px);
-  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
+  transform: translateY(-12px) scale(1.02);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
 }
 
 .header {
@@ -881,9 +885,8 @@ footer {
   background-color: var(--blanco);
   padding-bottom: 155px;
   border-radius: 25px;
-  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
-  transition: border 0.2s;
-  /* border: red 7px solid; */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  overflow: hidden;
 }
 
 .feature-card {
@@ -921,11 +924,11 @@ footer {
 }
 
 .animal:hover {
-  border: var(--verde_oscuro) 7px solid;
+  box-shadow: 0 0 0 4px var(--verde_oscuro), 0 20px 40px rgba(0, 0, 0, 0.15);
 }
 
 .floraH:hover {
-  border: var(--violeta) 7px solid;
+  box-shadow: 0 0 0 4px var(--violeta), 0 20px 40px rgba(0, 0, 0, 0.15);
 }
 
 .specie img {
