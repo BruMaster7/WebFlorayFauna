@@ -134,6 +134,22 @@ function mapIconUrl(url) {
 
 function getIconTitle(url) {
   const filename = url.split('/').pop().split('.')[0].toLowerCase();
+
+  const titleMapping = {
+    'en-peligro-de-extincion': 'En Peligro de Extinción',
+    'autoctonos': 'Autóctono',
+    'exoticos': 'Exótico',
+    'raro': 'Raro',
+    'peligroso': 'Peligroso',
+    'diurnos': 'Diurno',
+    'nocturnos': 'Nocturno',
+    'nocturnos-y-diurnos': 'Nocturno y Diurno'
+  };
+
+  if (titleMapping[filename]) {
+    return titleMapping[filename];
+  }
+
   const title = filename.charAt(0).toUpperCase() + filename.slice(1).replace(/-/g, ' ').replace(/_/g, ' ');
   return title;
 }
